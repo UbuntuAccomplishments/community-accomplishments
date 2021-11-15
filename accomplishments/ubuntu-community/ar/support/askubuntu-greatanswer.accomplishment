@@ -1,0 +1,16 @@
+{
+  "title": "Great Answer on Ask Ubuntu",
+  "description": "Answer score of 100 or more",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu:Asking & Answering",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-gold.png",
+  "depends": "ubuntu-community/askubuntu-niceanswer, ubuntu-community/askubuntu-goodanswer, ubuntu-community/registered-on-askubuntu",
+  "author": "Jorge O. Castro <jorge@ubuntu.com>",
+  "summary": "Answer score of 100 or more. These answers represent the very best content from Ask Ubuntu contributors. They typically take many revisions and additions to receive 100 votes from your peers.",
+  "steps": "Answer a question. You can start with some <a href=\"http://askubuntu.com/unanswered\">unanswered ones</a>.\nReceive 100 up-votes the site's users.",
+  "tips": "The best answers include screenshots, especially if the question is for something desktop-related.\nUse a tool like <a href=\"https://apps.ubuntu.com/cat/applications/shutter\">Shutter</a> to annotate your screenshots and show the answer in steps.\nCross link and refer official Ubuntu documentation and resources. The best answers have many references.\nUse the social media buttons to get your question out to the wider community.\nContinuously update your answer to improve its quality so your answer receives more visibility on the site.\nDon't just answer the question. Go above in beyond by explaining how you solved the problem, and take this opportunity to teach a user how to find this kind of information.",
+  "pitfalls": "Many questions are low quality. A great answer needs a great question, so concentrate on finding a highly voted unanswered question to answer.\nMany poor questions are just duplicates of other more established questions. Double check with a search before you invest time in a great answer; it can be frustrating to waste time writing a great answer to a question that will be closed or removed as a duplicate.\nDon't link to random blogs or websites. Those resources are typically unable to be reviewed and updated by the community and often have out of date information.",
+  "help": "#ubuntu-community-team on Freenode"
+}

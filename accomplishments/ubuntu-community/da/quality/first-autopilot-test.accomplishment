@@ -1,0 +1,15 @@
+{
+  "title": "First Autopilot Testcase",
+  "description": "The Ubuntu Quality Team has accepted your first Autopilot testcase",
+  "collection": "ubuntu-community",
+  "category": "QA",
+  "needs-signing": "true",
+  "needs-information": "launchpad-email",
+  "icon": "devel.png",
+  "author": "Javier Lopez <chilicuil@ubuntu.com>",
+  "summary": "To ensure a great quality around Ubuntu(and its flavors), manual and automatic tests are used. Autopilot tests run against unity and graphical components to ensure correct behavior on common situations.",
+  "steps": "Create a <a href=\"https://help.launchpad.net/YourAccount/NewAccount/\">Launchpad</a> Account.\nConfigure and run an <a href=\"https://wiki.ubuntu.com/UsingDevelopmentReleases/OtherWays\">Ubuntu development instance</a>.\nAdd the «ppa:autopilot/ppa» repository\nInstall «bzr, libautopilot-qt, python-autopilot»\n<a href=\"https://wiki.ubuntu.com/QATeam/ContributingTestcases/Launchpad\">Configure</a> your environment.\n<a href=\"https://wiki.ubuntu.com/QATeam/ContributingTestcases/Autopilot\">Write an Autopilot testcase</a>.\nMerge the Autopilot testcase into https://launchpad.net/ubuntu-autopilot-tests",
+  "tips": "Prioritaze our <a href=\"https://bugs.launchpad.net/ubuntu-autopilot-tests/+bugs?field.tag=todo\">todo list</a> if you're unsure on what to work on.\nImprove current testcases instead of create new ones.\nSay hello at #ubuntu-autopilot or present yourself in the <a href=\"https://lists.ubuntu.com/mailman/listinfo/ubuntu-quality\">quality mailing list</a>.\nAssist to a <a href=\"https://wiki.ubuntu.com/QATeam/Hackfest\">Hackfest</a>.",
+  "pitfalls": "Start writing an Autopilot testcase without assigning to yourself an <a href=\"https://bugs.launchpad.net/ubuntu-autopilot-tests/+bugs?field.tag=todo\">open report</a>(if available).\nCreate an Autopilot testcase based on an application running in a released Ubuntu version.",
+  "help": "#ubuntu-quality, #ubuntu-autopilot on Freenode"
+}

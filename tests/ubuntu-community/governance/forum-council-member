@@ -1,0 +1,5 @@
+[success]
+launchpad-email = mjbraniff@me.com 
+
+[failure]
+launchpad-email = fail@fail.com

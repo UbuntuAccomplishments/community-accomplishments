@@ -1,0 +1,14 @@
+{
+  "title": "Roczniak na Ask Ubuntu",
+  "description": "Aktywny członek od roku, zdobywając co najmniej 200 reputacji",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu:Membership",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-silver.png",
+  "depends": "ubuntu-community/registered-on-askubuntu",
+  "author": "Jorge O. Castro <jorge@ubuntu.com>",
+  "summary": "Aktywny członek od roku, zdobywając co najmniej 200 reputacji",
+  "steps": "Sign in and participate on the site.\nEarn at least 200 reputation by receiving upvotes from your peers.\nParticipate on the site for at least a year.",
+  "help": "#ubuntu-community-team on Freenode"
+}

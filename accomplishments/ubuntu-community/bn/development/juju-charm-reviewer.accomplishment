@@ -1,0 +1,14 @@
+{
+  "title": "যুযু চার্ম পর্যালোচনাকারী",
+  "description": "আপনি উবুন্টুতে যুযু চার্ম দিয়ে অবদান রেখেছেন",
+  "collection": "ubuntu-community",
+  "category": "Juju",
+  "needs-signing": "true",
+  "needs-information": "launchpad-email",
+  "icon": "juju.png",
+  "depends": "ubuntu-community/juju-charm-contributor",
+  "author": "Jono Bacon <jono@ubuntu.com>",
+  "summary": "Juju is designed to simplify rapid production of software products and services. This technology is powered by the quality of the available charms; easily shareable packages of service deployment and orchestration knowledge. This accomplishment is for those trusted members of the community who review community charms which are submitted for approved inclusion in the Juju Store.",
+  "steps": "একটি উল্লেখযোগ্য সংখ্যায় যুযু চার্মস্ অবদান রাখুন. নিয়মিত একটি যথেষ্ট উচ্চ গুণমানসম্পন্ন অবদান রাখুন. যোগ দিতে যুযু পর্যালোচনা দলের কোনো সদস্যকে জিজ্ঞাসা করুন.",
+  "help": "ফ্রিনোড এ #juju ."
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Redaktor Breloków Juju",
+  "description": "Dostarczasz Breloki Juju do Ubuntu.",
+  "collection": "ubuntu-community",
+  "category": "Juju",
+  "needs-signing": "true",
+  "needs-information": "launchpad-email",
+  "icon": "juju.png",
+  "depends": "ubuntu-community/juju-charm-contributor",
+  "author": "Jono Bacon <jono@ubuntu.com>",
+  "summary": "Technologia Juju oparta jest na jakości dostępnych Breloków. To osiągnięcie należy się zaufanym członkom społeczności, którzy przeglądają nowe Breloki i akceptują ich udostępnienie w Juju Store.",
+  "steps": "Review a significant number of Juju charms.\nMaintain both high quality and regularity of reviews.\nAsk a member of the Juju Reviews team if you can join.",
+  "help": "#juju on Freenode"
+}

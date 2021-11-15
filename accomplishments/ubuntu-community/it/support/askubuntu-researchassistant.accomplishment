@@ -1,0 +1,15 @@
+{
+  "title": "Assistente di Ricerca su Ask Ubuntu",
+  "description": "Editati 50 tag di wiki",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-silver.png",
+  "depends": "ubuntu-community/askubuntu-tageditor, ubuntu-community/registered-on-askubuntu",
+  "author": "Nathan Osman <admin@quickmediasolutions.com>",
+  "summary": "Modificati 50 tag di wiki",
+  "steps": "Fornire istruzioni passo passo per la realizzazione.\nOgni passo dovrebbe essere su una nuova riga con un tab all'inizio, così.",
+  "pitfalls": "Una serie di cose che l'utente dovrebbe evitare mentre esamina attentamente questo raggiungimento (ognuna aggiunta su una nuova riga)",
+  "help": "#ubuntu-community-team su Freenode"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Registrieren Sie sich bei Ask Ubuntu",
+  "description": "Sie haben sich bei Ask Ubuntu registriert",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-bronze.png",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "<a href=\"http://askubuntu.com\">Ask Ubuntu</a> ist eine Webseite auf der Nutzer Fragen zu Ubuntu stellen können. Es ist eine gute Möglichkeit um Hilfe zu erhalten, es ist einfach und schnell und man muss sich nicht registrieren um dort etwas fragen zu können. Um jedoch alle Funktionen der Seite nutzen zu können, wie etwa Antworten schreiben, bewerten und vieles mehr, ist eine Registrierung notwendig.\nDiese Errungenschaft schaltet alle anderen Trophäen, die sie durch ihre Aktivität bei Ask Ubuntu erhalten können, frei.",
+  "steps": "Rufen sie <a href=\"http://askubuntu.com\">http://askubuntu.com</a> auf.\nKlicken sie auf den <i>log in</i> - Link in der obersten Leiste der Webseite.\nFalls sie einen Account bei einem der aufgelisteten Dienste besitzen können sie diesen benutzen um sich einzuloggen. Andernfalls wählen sie <i>sign up</i> um einen StackExchange Account zu erstellen den sie dann zum Einloggen benutzen können.\nWenn sie eingeloggt sind, klicken sie auf ihren Benutzernamen in der obersten Leiste der Webseite. Kopieren sie dann die Adresse der Seite zu der sie weitergeleitet werden.\nGehen sie nun in dieser Anwendung im Menü auf <i>Bearbeiten->Identifikation</i> und fügen sie die kopierte Adresse in das zugehörige Feld ein, wodurch diese Anwendung über ihren Ask Ubuntu Account informiert wird.\nSobald ihr Account verifiziert wurde werden sie diese Trophäe erhalten.",
+  "help": "#ubuntu-stack auf Freenode"
+}

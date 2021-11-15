@@ -1,0 +1,16 @@
+{
+  "title": "Saggio (Pundit) su Ask Ubuntu",
+  "description": "Mancano 10 commenti  con punteggio 5 o più",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu:Comment",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-silver.png",
+  "depends": "ubuntu-community/askubuntu-commentator, ubuntu-community/registered-on-askubuntu",
+  "author": "Hernando Torque <sirius@sonnenkinder.org>",
+  "summary": "I commenti sono note temporanee su una domanda o una risposta. Possono solo essere votati con voti aggiuntivi  e flaggati,  ma non generano un cambio di reputazione. Per guadagnare questo badge devi lasciare un totale di 10 commenti, ognuno con 5 o più voti aggiuntivi. Per lasciare un commento, semplicemente clicca sul link  <i>commenta</i> sotto ogni post.\nNota che mentre puoi commentare sempre i tuoi post e qualsiasi parte delle tue domande, commentare i post di altra gente è un privilegio che puoi ottenere dopo aver aumentato la tua reputazione.",
+  "steps": "Lascia un commento di alta qualità. Se hai una reputazione di 50 o meno, puoi solo commentare i tuoi post e le tue domande. \nAttendi finché il commento raggiunge 5 voti in aggiunta dalla comunità. \nRipeti per un totale 10 di questo tipo di commenti.",
+  "tips": "I tuoi commenti riceveranno più facilmente voti in aggiunta se agiungo un valore reale ai post (es. richieste di maggiori dettagli a chi domanda, spiegazioni per un voto tolto etc.).",
+  "pitfalls": "Non cercare di attrare voti in aggiunta tramite commenti divertenti o irriverenti.",
+  "help": "#ubuntu-community-team on Freenode"
+}

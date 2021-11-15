@@ -1,0 +1,15 @@
+{
+  "title": "Research Assistant on Ask Ubuntu",
+  "description": "50 Tag-Wikis bearbeitet",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-silver.png",
+  "depends": "ubuntu-community/askubuntu-tageditor, ubuntu-community/registered-on-askubuntu",
+  "author": "Nathan Osman <admin@quickmediasolutions.com>",
+  "summary": "50 Tag-Wikis bearbeitet",
+  "steps": "Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\nJeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier.",
+  "pitfalls": "Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen (jedes sollte in einer neuen Zeile geschrieben werden)",
+  "help": "#ubuntu-community-team auf Freenode"
+}

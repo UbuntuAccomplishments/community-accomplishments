@@ -1,0 +1,15 @@
+{
+  "title": "Episch op Ask Ubuntu",
+  "description": "Verdiende 200 reputatie punten dagelijks, en dit 50 keer.",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-silver.png",
+  "depends": "ubuntu-community/askubuntu-mortarboard, ubuntu-community/registered-on-askubuntu",
+  "author": "Nathan Osman <admin@quickmediasolutions.com>",
+  "summary": "Verdiende 200 reputatie punten dagelijks, en dit 50 keer.",
+  "steps": "Provide step by step instructions for to accomplish this.\nEach step should be on a new line with a tab at the beginning, like this.",
+  "pitfalls": "A set of things the user should avoid while perusing this accomplishment (each one added on a new line).",
+  "help": "#ubuntu-community-team on Freenode"
+}

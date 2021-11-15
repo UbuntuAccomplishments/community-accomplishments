@@ -1,0 +1,16 @@
+{
+  "title": "ubuntu-community/ubuntu-cloak_title",
+  "description": "ubuntu-community/ubuntu-cloak_description",
+  "collection": "ubuntu-community",
+  "category": "IRC",
+  "needs-signing": "true",
+  "needs-information": "launchpad-email",
+  "icon": "default.png",
+  "depends": "ubuntu-community/ubuntu-member",
+  "author": "José Antonio Rey <joseeantonior@ubuntu.com>",
+  "summary": "ubuntu-community/ubuntu-cloak_summary",
+  "steps": "ubuntu-community/ubuntu-cloak_steps",
+  "tips": "ubuntu-community/ubuntu-cloak_tips",
+  "pitfalls": "ubuntu-community/ubuntu-cloak_pitfalls",
+  "help": "ubuntu-community/ubuntu-cloak_help"
+}

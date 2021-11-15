@@ -1,0 +1,12 @@
+{
+  "label": {
+    "en": "Launchpad Email",
+    "en_gb": "Launchpad Email",
+    "en_us": "Launchpad Email"
+  },
+  "description": {
+    "en": "The email address used for launchpad.net",
+    "en_gb": "The email address used for launchpad.net",
+    "en_us": "The email address used for launchpad.net"
+  }
+}

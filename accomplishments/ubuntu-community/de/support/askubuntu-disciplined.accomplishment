@@ -1,0 +1,15 @@
+{
+  "title": "Disciplined on Ask Ubuntu",
+  "description": "Deleted own post with score of 3 or higher",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-bronze.png",
+  "depends": "ubuntu-community/registered-on-askubuntu",
+  "author": "Nathan Osman <admin@quickmediasolutions.com>",
+  "summary": "Deleted own post with score of 3 or higher",
+  "steps": "Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\nJeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier.",
+  "pitfalls": "Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen (jedes sollte in einer neuen Zeile geschrieben werden)",
+  "help": "#ubuntu-community-team auf Freenode"
+}

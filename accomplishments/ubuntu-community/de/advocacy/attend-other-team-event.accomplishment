@@ -1,0 +1,14 @@
+{
+  "title": "Attend Event with another Local Community",
+  "description": "You attended an event with a Local Community other than your own",
+  "collection": "ubuntu-community",
+  "category": "LoCo Teams:Events",
+  "needs-signing": "true",
+  "needs-information": "launchpad-email",
+  "icon": "loco.png",
+  "depends": "ubuntu-community/member-loco-team, ubuntu-community/attend-loco-event",
+  "author": "Michael Hall <mhall119@ubuntu.com>",
+  "summary": "Local Community Teams aren't isolated, everybody is part of the same global Ubuntu Community, and attending an event held by another LoCo Team is a great way to expand you involvement.\nIn the Ubuntu Community you are encouraged to participate with other teams, and that's true for Local Community Teams as well.  Going to another team's event is a great way to meet new people, share experiences, and support Ubuntu in other parts of the world.\nSo if you are within commuting distance of another team, or happen to be traveling in another team's part of the globe, be sure to check on their upcoming events and attend them when you can.",
+  "steps": "Go to <tt>loco.ubuntu.com</tt> and find a team you are not a member of.\nView the list of upcoming events for that team, click on one you can attend.\nClick the 'Register' link on the upper-righthand corner of the page.\nSet your registration status to 'attending'.\nAttend the event in question and have a great time!",
+  "help": "#ubuntu-locoteams auf Freenode\n#ubuntu-community-team auf Freenode"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Tenacious on Ask Ubuntu",
+  "description": "Zero score accepted answers: more than 5 and 20% of total",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu:Unrecognized Contributions",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-silver.png",
+  "depends": "ubuntu-community/registered-on-askubuntu",
+  "author": "Jorge O. Castro <jorge@ubuntu.com>",
+  "summary": "Zero score accepted answers: more than 5 and 20% of total. This badge is awarded to recognize people who answer the user's questions but aren't receiving upvotes from their peers. This can happen when answering highly detailed or specific questions that not many people will be able to understand, or in a subject area that might not get as much user visibility as other topics.",
+  "steps": "Risposte alle domande che sono state accettate dalla persona che le ha chieste.\nSe 5 o più delle vostre risposte sono marcate come accettate ma hanno ottenuto 0 voti dai vostri corrispettivi e sono il 20% delle vostre risposte totali, otterrete questo badge.",
+  "tips": "Prendi in considerazione di rendere pubbliche le tue risposte per far ottenere la giusta attenzione.",
+  "pitfalls": "If someone notices how great your answers are and starts upvoting your answers you may never get this badge.",
+  "help": "#ubuntu-community-team su Freenode"
+}

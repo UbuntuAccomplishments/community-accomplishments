@@ -1,0 +1,16 @@
+{
+  "title": "আস্ক উবুন্টুতে তারকা প্রশ্ন .",
+  "description": "প্রশ্ন ১০০ জন ব্যবহারকারী দ্বারা পছন্দকৃত .",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-gold.png",
+  "depends": "ubuntu-community/askubuntu-favoritequestion, ubuntu-community/registered-on-askubuntu",
+  "author": "Surgemcgee <RobertSteckroth@gmail.com>",
+  "summary": "A answer is only useful when the question is relevant. Some problems have been encountered by many users in the Ask Ubuntu community. When a user asks a question which others seek a solution for, it will be up voted. This badge is awarded when ones question is up voted 100 times.",
+  "steps": "একটি প্রশ্ন পোস্ট করুন যার সমাধান অনেক লোকের প্রয়োজন হতে পারে.",
+  "tips": "Design well thought out questions with a single problem to be solved.\nInclude images and/or screen-shots only if appropriate.\nChoose a topic which covers a basic and popular service in Ubuntu.",
+  "pitfalls": "Asking questions which are derived from configuration errors or user mistakes.\nPosting poorly written or brief questions. Leaving out details needed to solve the question.\nUnnecessarily long questions with extra details. Providing information for \"just in case\" purposes.",
+  "help": "ফ্রি নোড এ #ubuntu-community-team ."
+}

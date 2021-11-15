@@ -1,0 +1,12 @@
+{
+  "label": {
+    "en": "Freenode IRC nickname",
+    "en_gb": "Freenode IRC nickname",
+    "en_us": "Freenode IRC nickname"
+  },
+  "description": {
+    "en": "The nickname you use on Ubuntu IRC channels",
+    "en_gb": "The nickname you use on Ubuntu IRC channels",
+    "en_us": "The nickname you use on Ubuntu IRC channels"
+  }
+}

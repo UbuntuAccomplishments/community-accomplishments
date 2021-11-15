@@ -1,0 +1,16 @@
+{
+  "title": "الإبلاغ عن أول bug",
+  "description": "لقد أبلغت عن أول bug لك في أوبونتو",
+  "collection": "ubuntu-community",
+  "category": "QA",
+  "needs-signing": "true",
+  "needs-information": "launchpad-email",
+  "icon": "default.png",
+  "depends": "ubuntu-community/registered-on-launchpad",
+  "author": "Jono Bacon <jono@ubuntu.com>",
+  "summary": "الـ<i>bug</i> هي عيب في برنامج معين. فعندما تبلغ عن هذه العيوب فإنك تساعد مشروع أوبونتو في إيجاد هذا العيب ليتم حله.\nعندما تبلغ عن bug فإنك تبدأ مناقشة بين المطورين و المهتمين الآخرين بالموضوع لإيجاد سبب المشكلة و تقديم المعلومات الكافية ليتم حلها بواسطة المطورين.\nهذه المناقشة غالباً ما يسألك المطورون فيها العديد من الأسئلة لتساعدهم في الوصول لسبب المشكلة.\nهذه المناقشة تتم بواسطة أداة لتتبع الـbugs تعرف بـ<i>bug tracker</i> , فهي أداة توفر اتمام هذه المناقشة و يتم وضع أولوية لهذه المشاكل ليتم حل الأخطر منها قبل الأقل أهمية.\nهناك العديد من الطرق ليتم الإبلاغ عن المشاكل, ولكننا نفضل أنك تستخدم أداة تسمى <tt>ubuntu-bug</tt> وهي تأتي مع أي نظام أوبونتو.\nهذه الأداة تساعد في جمع المعلومات اللازمة عن المشكلة ليتمكن المطورون من إيجاد السبب وحل المشكلة.\nيمكنك أيضاً الإبلاغ عن المشكلة عن طريق <i>Report a Problem</i> الموجودة في قائمة المساعدة في أي برنامج <i>Help</i>,\nوهي ببساطة طريقة رسومية لتشغيل أداة <tt>ubuntu-bug</tt>.",
+  "steps": "قم بفتح سطر الأوامر (أو الطرفية - كما تحب أن تسميها) عن طريق الضغط على زر أوبونتو في أعلى الشريط الأيسر وكتابة <i>terminal</i> في مربع البحث.\nعندما يفتح سطر الأوامر اكتب <tt>ubuntu-bug</tt> ثم اسم الحزمة (البرنامج) التي تريد الإبلاغ عن مشكلة فيها \n(مثلاً اكتب <tt>ubuntu-bug unity</tt> للإبلاغ عن مشكلة في يونيتي).\nإذا كنت ﻻ تعرف اسم الحزمة (البرنامج) فقط اكتب <tt>ubuntu-bug</tt> لوحدها واتبع التعليمات.\nاتبع بعد ذلك التعليمات في Launchpad .",
+  "tips": "Always try to be concise and detailed in your bug reports.\nIf you know the steps involved to trigger the bug, include those steps in the bug description. This is called <i>reproducing the bug</i>.\nRemember, when you file a bug report you are asking a developer to take the time to resolve it. Try to be helpful, polite, and respectful of their time.",
+  "pitfalls": "Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.\nDon't reply to a bug saying \"me too!\"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).",
+  "help": "#ubuntu-testing on Freenode"
+}

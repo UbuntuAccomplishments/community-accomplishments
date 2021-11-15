@@ -1,0 +1,15 @@
+{
+  "title": "Excavator on Ask Ubuntu",
+  "description": "Paste eerste bericht, dat langer dan 6 maanden inactief is, aan.",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-bronze.png",
+  "depends": "ubuntu-community/registered-on-askubuntu",
+  "author": "Nathan Osman <admin@quickmediasolutions.com>",
+  "summary": "Paste eerste bericht, dat langer dan 6 maanden inactief is, aan.",
+  "steps": "Geef stap voor stap instructies om dit te bereiken.\nElke stap zou op een nieuwe lijn moet starten, met een tab vooraan, zoals dit.",
+  "pitfalls": "Een lijst van dingen die een gebruiker moet vermijden bij het streven naar deze doelstelling. (elk item op een nieuwe lijn).",
+  "help": "#ubuntu-community-team on Freenode"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Membro del Team Ubuntu Beginners",
+  "description": "Sei un membro del team Ubuntu Beginners",
+  "collection": "ubuntu-community",
+  "category": "General",
+  "needs-signing": "true",
+  "needs-information": "launchpad-email",
+  "icon": "default.png",
+  "depends": "ubuntu-community/signed-code-of-conduct",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Il Team di Ubuntu Beginners esiste per migliorare l'esperienza iniziale dei nuovi  utenti Ubuntu e per guidare gli utenti Ubuntu esistenti per diventare parte della comunità Ubuntu globale. IL Team Beginners ti aiuta a essere coinvolto nel meraviglioso mondo della Comunità Ubuntu.\nL'iscrizione al Team è aperta a chiunque così come la partecipazione a una comunità più estesa.",
+  "steps": "Read the <a href=\"https://wiki.ubuntu.com/BeginnersTeam\">introduction</a> and <a href=\"https://wiki.ubuntu.com/BeginnersTeam/MissionStatement\">mission statement</a> and familiarize yourself with the current focus groups.\nSubscribe to the <a href=\"http://lists.ubuntu.com/ubuntu-beginners\">mailing list</a> to ensure that you remain up-to-date with what the team is doing.\nCreate a personal wiki page. Details on how to do this can be found <a href=\"https://wiki.ubuntu.com/BeginnersTeam/Membership/BTWikiGuide\">here</a>\nAdd your name to the <a href=\"https://wiki.ubuntu.com/BeginnersTeam/Membership#Seeking%20Guide\">Seeking Guide list</a>.\nHang out Internet Relay Chat channel #ubuntu-beginners-team on Freenode, most members are active in the channel and it's a good way to introduce yourself and meet members quickly.",
+  "tips": "Familiarizza con IRC",
+  "pitfalls": "Nulla",
+  "help": "ubuntu-beginners su Freenode\n#ubuntu-beginners-team su Freenode"
+}

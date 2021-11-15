@@ -1,0 +1,15 @@
+{
+  "title": "Revisore su Ask Ubuntu",
+  "description": "1000 <a href=\"/review\">reviews</a>, over 200 actioned",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-bronze.png",
+  "depends": "ubuntu-community/registered-on-askubuntu",
+  "author": "Nathan Osman <admin@quickmediasolutions.com>",
+  "summary": "1000 <a href=\"/review\">reviews</a>, over 200 actioned",
+  "steps": "Fornisci istruzioni passo passo per compiere questo.",
+  "pitfalls": "Un insieme di cose che l'utente dovrebbe evitare mentre effettua attentamente questo compimento (ognuna aggiunta  in una  nuova riga).",
+  "help": "#ubuntu-community-team su Freenode"
+}

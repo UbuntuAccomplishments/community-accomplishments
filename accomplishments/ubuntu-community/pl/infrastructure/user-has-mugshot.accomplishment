@@ -1,0 +1,14 @@
+{
+  "title": "Ustawiono mugshot w profilu Lauchpad",
+  "description": "Użytkownik wstawił zdjęcie dołączone do profilu Launchpad",
+  "collection": "ubuntu-community",
+  "category": "Launchpad:Your Profile",
+  "needs-signing": "true",
+  "needs-information": "launchpad-email",
+  "icon": "launchpad.png",
+  "depends": "ubuntu-community/registered-on-launchpad",
+  "author": "Andrea Grandi <a.grandi@gmail.com>",
+  "summary": "\"Mugshot\" jest obrazkiem który ustawia się w profilu użytkownika na Launchpadzie. Identyfikowanie ludzi po ich twarzach jest całkiem fajne.\nZalecamy wstawić prawdziwe Twoje zdjęcie (tradycyjnie uwidaczniające tylko twarz), lub inny avatar, który naprawdę lubisz. Unikaj obrazków, które mogą zawierać treści obraźliwe lub niestosowne.\nObrazek musi być o dokładnych wymiarach: <strong>192x192</stron>, i nie może być większy niż <strong>100 Kb</strong>.",
+  "steps": "Ustawienie obrazka jest bardzo proste.\nNajpierw zaloguj się na stronie launchpad.net.\nNastępnie wejdź na stronę swojego profilu, która zazwyczaj znajduje się pod adresem http://launchpad.net/~LOGIN\nKliknij link \"Change details\".\nUpewnij się, że obrazek ma dokładnie 192x192 piksele (.png lub .jpg będą w sam raz).\nGdy obrazek się załaduje, kliknij na \"Save changes\" na dole strony.",
+  "help": "#launchpad on Freenode"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Autodidacta en Ask Ubuntu",
+  "description": "Respondió su propia pregunta con valoración de 3 o más.",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-bronze.png",
+  "depends": "ubuntu-community/registered-on-askubuntu",
+  "author": "Surgemcgee <RobertSteckroth@gmail.com>",
+  "summary": "Occasionally one will find or realize the solution to a question, which he or she posted, before the Ask Ubuntu community. It is encouraged and beneficial to post answers to self asked questions.\nWhen an answer to a self posted question receives a score (up vote) of 3 or more, the Self-Learner Badge is awarded.",
+  "steps": "Provide a correct answer to a question posted by ones self.\nReceive 3 up votes on your provided answer by the Ask Ubuntu community.",
+  "tips": "Answers should be very descriptive with each step displayed in succession.\nImages and screen-shots in answers are helpful and will receive more attention if appropriately used.",
+  "pitfalls": "Vague or generic answers with links to other blogs are not easy to understand.\nObvious answers will not impress the community thus lowering the chance of up scoring.",
+  "help": "#ubuntu-community-team en Freenode"
+}

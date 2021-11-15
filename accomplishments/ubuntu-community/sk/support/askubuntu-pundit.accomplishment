@@ -1,0 +1,16 @@
+{
+  "title": "Pundit on Ask Ubuntu",
+  "description": "Left 10 comments with score of 5 or more",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu:Comment",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-silver.png",
+  "depends": "ubuntu-community/askubuntu-commentator, ubuntu-community/registered-on-askubuntu",
+  "author": "Hernando Torque <sirius@sonnenkinder.org>",
+  "summary": "Komentáre sú dočasné poznámky týkajúce sa určitej otázky či odpovede. Môžete za ne zahlasovať alebo ich označiť, ale táto činnosť nemá žiadny vplyv na reputáciu. K nadobudnutiu tohoto odznaku musíte zanechať presne 10 komentárov, z ktorých každý musí získať 5 alebo viac hlasov.\nPre zanechanie komentáru jednoducho kliknite na <i>comment</i> odkaz pod daným príspevkom. Prosím, buďte si vedomí, že i keď je vždy možné zanechať komentár ku svojmu vlastnému príspevku a ku ktorejkoľvek časti vašich otázok, zanechanie komentárov k príspevkom iných ľudí je privilégium, ktoré je udeľované na základe zlepšenia svojej reputácie.",
+  "steps": "Leave a high quality comment. If you have less than 50 reputation, you can only comment your own posts and questions.\nWait until the comment received 5 or more upvotes from the community.\nRepeat for a total of 10 such comments.",
+  "tips": "Your comments will more likely receive upvotes if they add real value to the posts (e.g., asking a questioner for more detail, explaining a downvote on the post, etc.).",
+  "pitfalls": "Don't try to attract upvotes by leaving funny or snide comments.",
+  "help": "#ubuntu-community-team on Freenode"
+}

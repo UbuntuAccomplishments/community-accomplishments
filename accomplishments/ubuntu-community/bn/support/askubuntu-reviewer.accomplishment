@@ -1,0 +1,15 @@
+{
+  "title": "আস্ক উবুন্টুতে পর্যালোচক.",
+  "description": "১০০০ <a href=\"/review\">পর্যালোচনা</a>, ২০০ এর উপর পদক্ষেপ নেয়া হয়েছে .",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-bronze.png",
+  "depends": "ubuntu-community/registered-on-askubuntu",
+  "author": "Nathan Osman <admin@quickmediasolutions.com>",
+  "summary": "১০০০ <a href=\"/review\">পর্যালোচনা</a>, ২০০ এর উপর পদক্ষেপ নেয়া হয়েছে .",
+  "steps": "এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন.",
+  "pitfalls": "ব্যবহারকারী এই নিষ্পাদন মনযোগের সাথে পাঠ করবার সময় কিছু জিনিস এড়িয়ে চলা উচিত (প্রতিটি এক একটি নতুন লাইনে যুক্ত).",
+  "help": "ফ্রি নোড এ#ubuntu-community-team ."
+}

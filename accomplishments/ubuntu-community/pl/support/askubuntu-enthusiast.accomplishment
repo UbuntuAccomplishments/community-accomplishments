@@ -1,0 +1,15 @@
+{
+  "title": "Entuzjasta na Ask Ubuntu",
+  "description": "Odwiedź stronę każdego dnia przez 30 kolejnych dni",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-silver.png",
+  "depends": "ubuntu-community/registered-on-askubuntu",
+  "author": "Nathan Osman <admin@quickmediasolutions.com>",
+  "summary": "Odwiedź stronę każdego dnia przez 30 kolejnych dni",
+  "steps": "Dać instrukcje krok po kroku aby tego dokonać. Każdy krok powinien być w nowej linii z karty na początku, jak to.",
+  "pitfalls": "A set of things the user should avoid while perusing this accomplishment (each one added on a new line).",
+  "help": "#ubuntu-community-team on Freenode"
+}

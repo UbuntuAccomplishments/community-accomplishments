@@ -1,0 +1,16 @@
+{
+  "title": "Good Answer on Ask Ubuntu",
+  "description": "Answer score of 25 or more",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-silver.png",
+  "depends": "ubuntu-community/askubuntu-niceanswer, ubuntu-community/registered-on-askubuntu",
+  "author": "Nathan Osman <admin@quickmediasolutions.com>",
+  "summary": "When you post an answer on Ask Ubuntu, your fellow users will either up-vote or down-vote your answer. The down-votes are subtracted from the up-votes to obtain the score for your answer. Once your answer receives a score of 25 or greater, you will receive this badge.",
+  "steps": "Visit the <a href=\"http://askubuntu.com\">Ask Ubuntu home page</a> and look for a question you think you might be able to provide an answer to.\nScroll to the bottom of the page to \"Your Answer\" and enter your answer below.\nOnce your answer is posted, you can click the \"edit\" link underneath the answer to make further improvements or correct errors.\nYou will be awarded the badge once the score of the answer reaches 25.",
+  "tips": "Be sure to clearly document sources in your answers.\nScreenshots are an excellent way to demonstrate a complicated set of instructions.",
+  "pitfalls": "Down-votes count against the score of the answer.",
+  "help": "#ubuntu-community-team sur Freenode"
+}

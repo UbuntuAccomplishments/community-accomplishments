@@ -1,0 +1,16 @@
+{
+  "title": "Auto-appreso da Ask-Ubuntu",
+  "description": "Ha risposto alla tua domanda con un punteggio di 3 o più.",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-bronze.png",
+  "depends": "ubuntu-community/registered-on-askubuntu",
+  "author": "Surgemcgee <RobertSteckroth@gmail.com>",
+  "summary": "A volte uno troverà la soluzione o la risposta a una domanda che ha postato prima che  comunità di Ask ubuntu la trovi. E' bene e positivo per gli altri  scrivere le risposte  alle domande che postate voi stessi. Quando una risposta a una domanda fatta da voi stessi riceve un punteggio (voto in aggiunta) di 3 o più, guadagnate il badge di Auto-apprendente .",
+  "steps": "Dai una risposta corretta a una domanda postata da te stesso. \nRicevi 3 o più voti sulle risposte fornite dalla comunità Ask Ubuntu.",
+  "tips": "Le risposte dovrebbero essere molto descrittive con ogni passo visualizzato in successione.\nLe immagini e gli screenshots nelle risposte sono molto utili e otterranno più attenzione se usate in modo adeguato.",
+  "pitfalls": "Risposte vage o generiche con collegamenti a altri blog non sono facili da capire.\nRisposte ovvie non faranno impressione nella comunità abbassando al contrario la possibilità di aumentare il punteggio.",
+  "help": "#ubuntu-community-team on Freenode"
+}

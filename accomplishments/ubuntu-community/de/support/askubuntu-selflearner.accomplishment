@@ -1,0 +1,16 @@
+{
+  "title": "Self-Learner on Ask Ubuntu",
+  "description": "Beantworten Sie ihre Frage mit einer Bewertung von 3 oder höher.",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-bronze.png",
+  "depends": "ubuntu-community/registered-on-askubuntu",
+  "author": "Surgemcgee <RobertSteckroth@gmail.com>",
+  "summary": "Occasionally one will find or realize the solution to a question, which he or she posted, before the Ask Ubuntu community. It is encouraged and beneficial to post answers to self asked questions.\nWhen an answer to a self posted question receives a score (up vote) of 3 or more, the Self-Learner Badge is awarded.",
+  "steps": "Tragen sie eine korrekte Antwort zu einer von ihnen gestellten Frage bei.\nErhalten sie drei Aufwertungen auf diese Antwort von der Ask Ubuntu Community.",
+  "tips": "Ihre Antworten sollten sehr detailliert sein und Schritt für Schritt nachvollziehbar sein.\nBilder und Screenshots in Antworten sind hilfreich und werden mehr Aufmerksamkeit erhalten falls Sie sie zweckmäßig einsetzen.",
+  "pitfalls": "Vage oder allgemeine Antworten mit Links zu anderen Blogs sind nicht einfach zu verstehen.\nOffensichtliche Antworten werden die Community nicht beeindrucken sondern eher die Chance mindern, dass ihre Antwort aufgewertet wird.",
+  "help": "#ubuntu-community-team auf Freenode"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Bidrar med Juju-charm",
+  "description": "Du bidrar med Juju-charm till Ubuntu.",
+  "collection": "ubuntu-community",
+  "category": "Juju",
+  "needs-signing": "true",
+  "needs-information": "launchpad-email",
+  "icon": "juju.png",
+  "depends": "ubuntu-community/registered-on-launchpad",
+  "author": "Jono Bacon <jono@ubuntu.com>",
+  "summary": "Juju är en teknologi som lever på kvaliteten i den tillgängliga charmen. Denna prestation är för de medlemmar i gemenskapen som har bidragit med charm till Juju-gemenskapen.",
+  "steps": "Bidra med en viss mängd Juju-charm.\nBidra regelbunder och till en tillräckligt hög kvalitet.\nFråga en medlem i gruppen Juju Contributors om du kan gå med.",
+  "help": "#juju på Freenode"
+}

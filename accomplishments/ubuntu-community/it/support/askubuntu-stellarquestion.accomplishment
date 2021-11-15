@@ -1,0 +1,16 @@
+{
+  "title": "Domanda Stellare su Ask Ubuntu",
+  "description": "Domanda preferita da 100 utenti",
+  "collection": "ubuntu-community",
+  "category": "Ask Ubuntu",
+  "needs-signing": "true",
+  "needs-information": "askubuntu-user-url",
+  "icon": "askubuntu-gold.png",
+  "depends": "ubuntu-community/askubuntu-favoritequestion, ubuntu-community/registered-on-askubuntu",
+  "author": "Surgemcgee <RobertSteckroth@gmail.com>",
+  "summary": "Una risposta è utile solo quando la domanda è rilevante. Alcuni problemi sono stati incontrati da molti utenti nella comunità Ask Ubuntu. Quando un utente fa una domanda per la quale altri cercano una soluzione, riceverà un voto in aggiunta. Questo badge è dato quando una domanda è votata positivamente 100 volte.",
+  "steps": "Fatto una domanda la cui soluzione è richiesta da molta gente",
+  "tips": "Design well thought out questions with a single problem to be solved.\nInclude images and/or screen-shots only if appropriate.\nChoose a topic which covers a basic and popular service in Ubuntu.",
+  "pitfalls": "Asking questions which are derived from configuration errors or user mistakes.\nPosting poorly written or brief questions. Leaving out details needed to solve the question.\nUnnecessarily long questions with extra details. Providing information for \"just in case\" purposes.",
+  "help": "#ubuntu-community-team su Freenode"
+}

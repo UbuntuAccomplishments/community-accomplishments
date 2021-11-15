@@ -1,0 +1,14 @@
+{
+  "title": "Bug Squad Mitglied",
+  "description": "Sie sind ein Mitglied des Ubuntu Bug Squads",
+  "collection": "ubuntu-community",
+  "category": "QA",
+  "needs-signing": "true",
+  "needs-information": "launchpad-email",
+  "icon": "default.png",
+  "depends": "ubuntu-community/signed-code-of-conduct",
+  "author": "Matt Fischer <matthew.fischer@canonical.com>",
+  "summary": "Das Ubuntu Bug Squad ist Ubuntu's Team um dabei zu helfen, Bug Reports zu verbessern.",
+  "steps": "Sign the <a href=\"http://www.ubuntu.com/community/conduct\">Ubuntu Code of Conduct</a>\nRead the <a href=\"https://wiki.ubuntu.com/Bugs/HowToTriage/\">Triage Guide</a>\nSubscribe to the <a href=\"https://lists.ubuntu.com/mailman/listinfo/ubuntu-bugsquad\">Bug Squad Mailing List</a>\nAfter completing the previous steps, <a href=\"https://launchpad.net/~bugsquad/+join\">apply for membership here</a>",
+  "help": "#ubuntu-bugs auf Freenode"
+}
