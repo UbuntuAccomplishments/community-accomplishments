@@ -3,7 +3,7 @@
   "description": "Earned at least 200 reputation in a single day",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

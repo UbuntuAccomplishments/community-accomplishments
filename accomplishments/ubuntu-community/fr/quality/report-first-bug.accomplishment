@@ -5,7 +5,7 @@
   "category": "QA",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Un <i>bogue</i> est un défaut dans un logiciel. Quand vous signalez un bogue, cela signifie que vous informer le projet Ubuntu de la présence d'un des ces défauts, de telle sorte que nous puissions le résoudre.",

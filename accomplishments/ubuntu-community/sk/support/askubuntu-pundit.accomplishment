@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu:Comment",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "depends": "ubuntu-community/askubuntu-commentator, ubuntu-community/registered-on-askubuntu",
   "author": "Hernando Torque <sirius@sonnenkinder.org>",
   "summary": "Komentáre sú dočasné poznámky týkajúce sa určitej otázky či odpovede. Môžete za ne zahlasovať alebo ich označiť, ale táto činnosť nemá žiadny vplyv na reputáciu. K nadobudnutiu tohoto odznaku musíte zanechať presne 10 komentárov, z ktorých každý musí získať 5 alebo viac hlasov.\nPre zanechanie komentáru jednoducho kliknite na <i>comment</i> odkaz pod daným príspevkom. Prosím, buďte si vedomí, že i keď je vždy možné zanechať komentár ku svojmu vlastnému príspevku a ku ktorejkoľvek časti vašich otázok, zanechanie komentárov k príspevkom iných ľudí je privilégium, ktoré je udeľované na základe zlepšenia svojej reputácie.",

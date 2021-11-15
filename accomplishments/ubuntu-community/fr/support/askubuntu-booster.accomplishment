@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu:Publicity",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "depends": "ubuntu-community/askubuntu-announcer, ubuntu-community/registered-on-askubuntu",
   "author": "Marco Ceppi <marco@ceppi.net>",
   "summary": "Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question or answer with the world. Share a link to a question, and if that link is visited by 300 unique IP addresses this badge will be awarded to you.",

@@ -5,7 +5,7 @@
   "category": "Governance",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "summary": "The Ubuntu Beginners Team Council is the primary governance body for the Ubuntu Beginners Team. The Beginners Team Council advises Focus Group leaders when they require assistance.\nMembers of the Beginners Team Council have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the council. Members are also expected to have good people skills and have the ability to empathise with others.",
   "steps": "Become a member of the Beginners Team\nBecome an Ubuntu Member\nWait for an election, if you feel you can fulfill the role then send an email to the mailing list and await further instructions.",

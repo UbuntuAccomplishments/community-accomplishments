@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu:Asking & Answering",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "depends": "ubuntu-community/registered-on-askubuntu",
   "author": "Hernando Torque <sirius@sonnenkinder.org>",
   "summary": "This is a tough to get badge for sure! To earn it, you not only have to provide the highest scoring answer. It also needs to outscore an already accepted answer (those marked with a green checkmark) that has a score of at least 11 by more than two times (so at least a score of 23 for an accepted answer with score 11).",

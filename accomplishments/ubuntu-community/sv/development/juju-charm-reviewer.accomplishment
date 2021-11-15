@@ -5,7 +5,7 @@
   "category": "Juju",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "juju.png",
+  "icon": "juju.svg",
   "depends": "ubuntu-community/juju-charm-contributor",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Juju är en teknologi som lever på kvaliteten i tillgänglig charm. Denna prestation är till för de betrodda medlemmar i gemenskapen som går igenom gemenskapens charm och godkänner inkludering i Juus butik.",

@@ -3,7 +3,7 @@
   "description": "You have an Ubuntu Member IRC cloak.",
   "collection": "ubuntu-community",
   "category": "IRC",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "needs-signing": "true",
   "needs-information": "launchpad-email",

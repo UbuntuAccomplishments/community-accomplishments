@@ -5,7 +5,7 @@
   "category": "IRC",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "author": "José Antonio Rey <joseeantonior@ubuntu.com>",
   "summary": "ubuntu-community/ubuntu-cloak_summary",

@@ -3,7 +3,7 @@
   "description": "Created a tag used by 50 questions",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Tagging",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

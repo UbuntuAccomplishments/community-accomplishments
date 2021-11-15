@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "depends": "ubuntu-community/askubuntu-favoritequestion, ubuntu-community/registered-on-askubuntu",
   "author": "Surgemcgee <RobertSteckroth@gmail.com>",
   "summary": "Una risposta è utile solo quando la domanda è rilevante. Alcuni problemi sono stati incontrati da molti utenti nella comunità Ask Ubuntu. Quando un utente fa una domanda per la quale altri cercano una soluzione, riceverà un voto in aggiunta. Questo badge è dato quando una domanda è votata positivamente 100 volte.",

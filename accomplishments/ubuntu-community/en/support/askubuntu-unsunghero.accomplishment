@@ -3,7 +3,7 @@
   "description": "Zero score accepted answers: more than 10 and 25% of total",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Unrecognized Contributions",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-tenacious, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

@@ -3,7 +3,7 @@
   "description": "Asked a question with 10,000 views",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Popularity",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-popularquestion, ubuntu-community/askubuntu-notablequestion, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

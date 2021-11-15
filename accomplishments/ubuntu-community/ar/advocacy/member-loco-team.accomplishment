@@ -5,7 +5,7 @@
   "category": "LoCo Teams",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "loco.png",
+  "icon": "loco.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "فرق أوبونتو المحلية هي مجموعات من المستخدمين موجودة في كل انحاء العالم.\nهدفها تجمع المستخدمين للمناقشة حول أوبونتو , تبادل الأفكار والخبرات , والتعاون لنشر ثقافة أوبونتو و كيف يمكن للناس الاستفادة منه.",

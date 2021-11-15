@@ -5,7 +5,7 @@
   "category": "Documentation",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Ubuntu Fridge är den officiella nyhetssiten för Ubuntugemenskapen. Nyhetssiten som drivs av gemenskapen innehåller artiklar, nyheter, åsikter och annat innehåll från utsidan och insidan av Ubuntugemenskapen.\n<i>Ubuntu Fridge editorerna</i> är en grupp som skapar och publicerar innehåll till siten. För att bli medlem av denna grupp behöver du kunna skriva bra och ofta, samt vara tillgänglig för att publicera nytt innehåll och nyheter.",

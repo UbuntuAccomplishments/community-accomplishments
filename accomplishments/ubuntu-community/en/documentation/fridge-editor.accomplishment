@@ -3,7 +3,7 @@
   "description": "A member of the Fridge Editors team",
   "collection": "ubuntu-community",
   "category": "Documentation",
-  "icon": "default.png",
+  "icon": "default.svg",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
   "depends": "ubuntu-community/ubuntu-member",

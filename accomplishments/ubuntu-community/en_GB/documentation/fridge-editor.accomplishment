@@ -5,7 +5,7 @@
   "category": "Documentation",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "The Ubuntu Fridge is the official news site for the Ubuntu Community. It is a community driven news site which features articles, news, opinion, and other content from around and in the Ubuntu community.\nThe <i>Ubuntu Fridge Editors</i> are a team who produce and publish content to the site. To be a member of this team you need to be able to write well, write often, and be responsive to publishing new content and news.",

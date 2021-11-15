@@ -5,7 +5,7 @@
   "category": "LoCo Teams:Events",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "loco.png",
+  "icon": "loco.svg",
   "depends": "ubuntu-community/attend-loco-event",
   "author": "Michael Hall <mhall119@ubuntu.com>",
   "summary": "An Ubuntu Hour is a short, informal meetup every week, every other week or every month.\nUbuntu Hours have become a great method for advocacy, team-building, and social fun. It's a great way to promote the use of Ubuntu on a regular basis.\nOrganizing and participating in an Ubuntu Hour is very easy:\n* Head over to a public place (like a local coffee shop, etc) where you'll hang out.\n* Wear something with the Ubuntu logo or have a visible Ubuntu sticker on your laptop (if you bring one).\n* When/if you show up, you agree to the Ubuntu Code of Conduct.\n* Anyone can start an Ubuntu Hour, anywhere, anytime.\n* Remember this is a social event, be approachable!",

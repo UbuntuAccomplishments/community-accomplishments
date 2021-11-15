@@ -4,7 +4,7 @@
   "collection": "ubuntu-community",
   "category": "Governance",
   "needs-signing": "true",
-  "icon": "default.png",
+  "icon": "default.svg",
   "needs-information": "launchpad-email",
   "depends": "ubuntu-community/ubuntu-member",
   "summary": "The Ubuntu Community Council is the primary community (i.e. non-technical) governance body for the Ubuntu Project and as such has an important role and responsibility to the Ubuntu community.\nThe Community Council advises and decides on community policy and process. It is also an escalation body for incidents that occur elsewhere in the Ubuntu community.\nMembers of the Community Council have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the council.",

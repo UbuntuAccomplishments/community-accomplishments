@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "depends": "ubuntu-community/askubuntu-excavator, ubuntu-community/registered-on-askubuntu",
   "author": "Marco Ceppi <marco@ceppi.net>",
   "summary": "Editing is a <i>vital</i> function on Ask Ubuntu. By editing you help to fix glaring issues in posts as well as raise the overall quality of the site.\nBy editing old posts to bring them up-to-date you help maintain an even higher standard of quality for aging posts. Editing 100 posts that were inactive for at least six months will win you this achievement and badge.",

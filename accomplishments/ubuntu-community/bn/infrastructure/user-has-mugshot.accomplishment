@@ -5,7 +5,7 @@
   "category": "Launchpad:Your Profile",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "launchpad.png",
+  "icon": "launchpad.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Andrea Grandi <a.grandi@gmail.com>",
   "summary": "মুখমন্ডলের চিত্র একটি অবতার চিত্র যা একজন ব্যবহারকারী তার লন্চপ্যাড প্রোফাইল সেট করতে পারেন. এটা চমৎকার যখন মনুষ আপনাকে শুধুমাত্র আপনার ছবি দেখে সনাক্ত করতে পারে.  আপনার জন্য আমাদের পরামর্শ হচ্ছে আপনার একটি সত্যিকারের ছবি নির্বাচন করুন (সাধারণত শুধুমাত্র মুখমন্ডল প্রদর্শন করে) অথবা অন্য অবতার যা সত্যিই আপনি. আপনার ছবিতে অভদ্র কিছু ব্যবহার করবেননা যা অন্যকে ক্ষুব্ধ করে (যেমন প্রাপ্তবয়স্ক বিষয়বস্তু).  ছবি ঠিক <strong> 192x192 </ strong> এবং বড় বেশি <strong> 100 KB </ strong> হবে.",

@@ -3,7 +3,7 @@
   "description": "You have a blog on Planet Ubuntu",
   "collection": "ubuntu-community",
   "category": "General",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/ubuntu-member, ubuntu-community/imported-ssh-key",
   "needs-signing": "true",
   "needs-information": "launchpad-email",

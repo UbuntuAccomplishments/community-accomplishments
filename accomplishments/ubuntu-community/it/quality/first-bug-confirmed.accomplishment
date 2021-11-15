@@ -5,7 +5,7 @@
   "category": "QA",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/report-first-bug",
   "author": "Bruno Girin <brunogirin@gmail.com>",
   "summary": "Un bug è un difetto in un software. Aprire bug è un ottima maniera per aiutare a migliorare Ubuntu e per fare in modo che il bug venga risolto, qualcun altro deve essere in grado di riprodurlo e confermarlo. Con più è dettagliata e precisa la vostra segnalazione del bug, più è probabile che questo possa essere riprodotto da qualcun altro. Questo risultato riflette il fatto che almeno una delle vostre segnalazioni di bug era di buona qualità ed è stata confermata da qualcun altro.",

@@ -5,7 +5,7 @@
   "category": "Development:Packaging",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "devel.png",
+  "icon": "devel.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "<tt> ইউনিভার্স</ tt> আর্কাইভে একজন উবুন্টু এম ও টি ইউ (MOTU) ডেভেলপার প্যাকেজিং এবং সমস্যা সমাধানের জন্য দায়িত্বপ্রাপ্ত. এর মদ্ধে রয়েছে এক ব্যাপক বৈচিত্রপূর্ণ অ্যাপ্লিকেশনসমূহের সম্ভার যা ডেবিয়ান থেকে উবুন্টুর মধ্যে আনা হয়.",

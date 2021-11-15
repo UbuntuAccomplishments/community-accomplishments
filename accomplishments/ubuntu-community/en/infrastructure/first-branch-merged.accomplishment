@@ -3,7 +3,7 @@
   "description": "You have contributed code to a project in Launchpad",
   "collection": "ubuntu-community",
   "category": "Launchpad:Code Hosting",
-  "icon": "launchpad.png",
+  "icon": "launchpad.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "needs-signing": "true",
   "needs-information": "launchpad-email",

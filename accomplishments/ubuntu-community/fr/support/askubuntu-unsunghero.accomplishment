@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu:Unrecognized Contributions",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "depends": "ubuntu-community/askubuntu-tenacious, ubuntu-community/registered-on-askubuntu",
   "author": "Jorge O. Castro <jorge@ubuntu.com>",
   "summary": "Zero score accepted answers: more than 10 and 25% of total",

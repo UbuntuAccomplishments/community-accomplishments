@@ -2,7 +2,7 @@
   "title": "Analytical on Ask Ubuntu",
   "description": "Visited every section of the <a href=\"http://askubuntu.com/faq\">Ask Ubuntu FAQ</a>",
   "collection": "ubuntu-community",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "category": "Ask Ubuntu:Starter",

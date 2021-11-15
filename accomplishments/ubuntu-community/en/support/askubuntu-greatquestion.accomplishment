@@ -3,7 +3,7 @@
   "description": "Question score of 100 or more",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Asking & Answering",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-goodquestion, ubuntu-community/askubuntu-nicequestion, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

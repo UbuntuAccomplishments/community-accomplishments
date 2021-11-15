@@ -5,7 +5,7 @@
   "category": "QA",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/signed-code-of-conduct",
   "author": "Matt Fischer <matthew.fischer@canonical.com>",
   "summary": "Das Ubuntu Bug Squad ist Ubuntu's Team um dabei zu helfen, Bug Reports zu verbessern.",

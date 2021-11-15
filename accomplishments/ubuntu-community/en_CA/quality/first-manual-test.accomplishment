@@ -5,7 +5,7 @@
   "category": "QA",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "devel.png",
+  "icon": "devel.svg",
   "author": "Javier Lopez <chilicuil@ubuntu.com>",
   "summary": "To ensure a great quality around Ubuntu(and its flavors), manual and automatic tests are used. Currently these testcases are utilized by the QAtracker instances for manual image, package, and hardware testing.",
   "steps": "Create a <a href=\"https://help.launchpad.net/YourAccount/NewAccount/\">Launchpad</a> Account.\nConfigure and run an <a href=\"https://wiki.ubuntu.com/UsingDevelopmentReleases/OtherWays\">Ubuntu development instance</a>.\nInstall «bzr»\n<a href=\"https://wiki.ubuntu.com/QATeam/ContributingTestcases/Launchpad\">Configure</a> your environment.\n<a href=\"https://wiki.ubuntu.com/QATeam/ContributingTestcases/Manual\">Write a Manual testcase</a>.\nMerge the Manual testcase into https://launchpad.net/ubuntu-manual-tests",

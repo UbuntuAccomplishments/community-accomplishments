@@ -2,7 +2,7 @@
   "title": "Joined Ubuntu Power Users",
   "description": "Joined Ubuntu-Power-Users on Launchpad",
   "collection": "ubuntu-community",
-  "icon": "ubuntu-power-users.png",
+  "icon": "ubuntu-power-users.svg",
   "category": "General",
   "depends": "ubuntu-community/registered-on-launchpad",
   "needs-signing": "true",

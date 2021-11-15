@@ -3,7 +3,7 @@
   "description": "Followed the <a href=\"http://area51.stackexchange.com/\">Area 51</a> proposal for this site before it entered the commitment phase",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Membership",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

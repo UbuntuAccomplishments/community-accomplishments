@@ -3,7 +3,7 @@
   "description": "Approved or rejected 100 suggested edits",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Editing",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

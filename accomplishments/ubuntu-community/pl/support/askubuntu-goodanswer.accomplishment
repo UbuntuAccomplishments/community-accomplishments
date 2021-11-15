@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "depends": "ubuntu-community/askubuntu-niceanswer, ubuntu-community/registered-on-askubuntu",
   "author": "Nathan Osman <admin@quickmediasolutions.com>",
   "summary": "When you post an answer on Ask Ubuntu, your fellow users will either up-vote or down-vote your answer. The down-votes are subtracted from the up-votes to obtain the score for your answer. Once your answer receives a score of 25 or greater, you will receive this badge.",

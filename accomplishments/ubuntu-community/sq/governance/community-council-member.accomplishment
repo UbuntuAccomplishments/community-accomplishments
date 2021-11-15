@@ -5,7 +5,7 @@
   "category": "Governance",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Këshilli i Komunitetit të Ubuntu është organi kryesor (dmth jo-teknikë)  qeverisës i projektit Ubuntu dhe si i tillë ka një rol të rëndësishëm dhe përgjegjësi ndaj komunitetit të Ubuntu.\nKëshilli i Komunitetit këshillon dhe vendos për politikat dhe proceset komunitare. Ai është gjithashtu një organ përshkallëzim për incidentet që ndodhin kudo në komunitetin Ubuntu.\nAnëtarët e Këshillit të Komunitetit kanë demonstruar një angazhim të fortë në historinë e pjesëmarrjes në Ubuntu, aftësitë të qarta drejtuese, dhe kanë kohën dhe disponueshmërinë e duhur për të kryer nevojat e këshillit.",

@@ -3,7 +3,7 @@
   "description": "Registered a Launchpad account",
   "collection": "ubuntu-community",
   "category": "Launchpad",
-  "icon": "default.png",
+  "icon": "default.svg",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
   "summary": "Launchpad is a website in which we do much of our work in Ubuntu. There we build packages, file and fix bugs, perform translations, manage code, and other activities.\nYou will need to register an account with Launchpad to participate in much of the Ubuntu community. Fortunately, registering is simple, safe, and free.",

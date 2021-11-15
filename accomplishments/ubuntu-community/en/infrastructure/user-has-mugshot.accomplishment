@@ -3,7 +3,7 @@
   "description": "User has set a mugshot in their own Launchpad profile",
   "collection": "ubuntu-community",
   "category": "Launchpad:Your Profile",
-  "icon": "launchpad.png",
+  "icon": "launchpad.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "needs-signing": "true",
   "needs-information": "launchpad-email",

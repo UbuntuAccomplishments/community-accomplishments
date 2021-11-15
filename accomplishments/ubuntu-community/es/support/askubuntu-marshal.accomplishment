@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "depends": "ubuntu-community/askubuntu-deputy, ubuntu-community/registered-on-askubuntu",
   "author": "Nathan Osman <admin@quickmediasolutions.com>",
   "summary": "Raised 500 helpful flags",

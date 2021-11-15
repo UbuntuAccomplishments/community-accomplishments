@@ -3,7 +3,7 @@
   "description": "Voted on 600 questions and 25% or more of total votes are on questions",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

@@ -5,7 +5,7 @@
   "category": "QA",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "<i>Błąd</i> występuje w części oprogramowania. Kiedy zgłaszasz błąd oznacza to, że informujesz o nim projekt Ubuntu, dzięki czemu możemy go rozwiązać.\nW momencie zgłoszenia błędu rozpoczyna się dyskusja z twórcami Ubuntu oraz innymi zainteresowanymi tym błędem, mająca na celu zgromadzenie odpowiedniej ilości informacji, które są potrzebne do ustalenia źródła problemu, aby mógł zostać on szybko usunięty. Do dyskusji tej z reguły angażują się deweloperzy, zadając Ci różne pytania, które pomogą im na szybsze zlokalizowanie problemu.\nTa dyskusja ma miejsce w tzw. <i>bug tracker</i>; jest to narzędzie które pozwala na prowadzenie tej dyskusji, oraz ustawanie priorytetu błędu, aby mieć pewność, że ważne błędy zostaną rozwiązane wcześniej.\nJest kilka różnych sposobów zgłaszania błędu, ale my zalecamy używanie narzędzia <tt>ubuntu-bug</tt> które domyślnie jest zainstalowane na wszystkich systemach Ubuntu. To narzędzie pomaga w zgromadzeniu niezbędnych informacji, które mogą być potrzebne deweloperom do odszukania źródła błędu i jego naprawienia.\nMożesz zgłosić błąd w bardziej \"graficzny\" sposób poprzez opcje <i>Zgłoś problem</i> w menu aplikacji, pod zakładką <i>Pomoc</i>, zazwyczaj umożliwia to graficzną obsługę <tt>ubuntu-bug</tt>",

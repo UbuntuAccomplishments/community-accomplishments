@@ -5,7 +5,7 @@
   "category": "General",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Un Membru Ubuntu este orice persoană care a demonstrat o contribuție <i>susținută și însemnată</i> la Ubuntu. \nFiecare Membru Ubuntu este văzut ca un contribuitor de încredere, pe care te poți baza și care a contribuit la continuarea și îmbunătățirea Ubuntu.\nFoarte important, Calitatea de Membru Ubuntu nu necesită nicio abilitate specifică; contribuțiile importante în dezvoltare, documentație, traduceri, susținere, suport, artă, design, și în multe alte domenii, sunt toate demne pentru a obține calitatea de membru.",

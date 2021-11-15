@@ -5,7 +5,7 @@
   "category": "IRC",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "author": "José Antonio Rey <joseeantonior@ubuntu.com>",
   "summary": "Ubuntu Members can get an Ubuntu Member cloak in Freenode. A cloak is a piece of information that replaces your IP address when connecting to an IRC network. An example could be <tt>ubuntu/member/bobsmith</tt>\nThe cloak can be used to distinguish someone from a project, association, or organization, or just for privacy reasons, as your IP will not be displayed as your host anymore.\nThere are three Ubuntu Member cloaks you can get: <tt>@ubuntu/member/&#60yourusername&#62</tt>, <tt>@ubuntu/member/other.cloak.&#60yourusername&#62</tt> and <tt>@other/cloak/ubuntu.&#60yourusername&#62</tt>. You can choose the second or the third cloak as long as both projects agree to it.",

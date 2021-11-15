@@ -3,7 +3,7 @@
   "description": "Highest scoring answer that outscored an accepted answer with score of more than 10 by more than 2x",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Asking & Answering",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

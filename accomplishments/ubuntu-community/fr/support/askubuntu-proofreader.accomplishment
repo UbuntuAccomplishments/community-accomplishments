@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu:Editing",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "depends": "ubuntu-community/registered-on-askubuntu",
   "author": "Christopher Kyle Horton <christhehorton@gmail.com>",
   "summary": "Users with insufficient reputation often cannot edit posts directly. Instead, they can suggest edits to be made, which can then be either approved or rejected by community members with higher reputation. This badge is awarded once a user has approved or rejected at least 100 such edits.",

@@ -5,7 +5,7 @@
   "category": "LoCo Teams",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "loco.png",
+  "icon": "loco.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Los equipos LoCo (Local Community) son grupos locales de usuarios que se reunen para discutir temas sobre Ubuntu, compartir ideas, consejos, trucos, mejorar la distribución y ayudar a difundir el uso de Ubuntu",

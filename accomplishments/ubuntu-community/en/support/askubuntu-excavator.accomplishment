@@ -3,7 +3,7 @@
   "description": "Edited first post that was inactive for 6 months",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

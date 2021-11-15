@@ -5,7 +5,7 @@
   "category": "Documentation",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Ubuntu Fridge este site-ul oficial de știri pentru Comunitatea Ubuntu. Este un site de știri coordonat de comunitate, care oferă articole, știri, opinii și alte tipuri de conținut din cadrul și din jurul comunității Ubuntu. \n<i>Editorii Ubuntu Fridge</i> formează echipa care publică și produce conținut pentru site. Pentru a deveni membru al acestei echipe, trebuie să scrieți bine, des și să fiți receptiv la publicarea de conținut nou și știri.",

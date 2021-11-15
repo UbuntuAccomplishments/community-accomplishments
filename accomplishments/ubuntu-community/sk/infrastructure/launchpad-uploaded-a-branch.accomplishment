@@ -5,7 +5,7 @@
   "category": "Launchpad:Code Hosting",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "launchpad.png",
+  "icon": "launchpad.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "A core part of Launchpad is the ability to host different directories of code. These directories are called <i>branches</i> and we use the Bazaar version control system to manage them. We can use these branches to share contributions and to propose improvements and changes to other branches and projects.\nThis trophy is awarded when you have created and uploaded your very first branch. We will help you get started right away!\nIt is recommended that you read a quick primer on how version control works. See the <i>Further Reading</i> section below for some helpful links",

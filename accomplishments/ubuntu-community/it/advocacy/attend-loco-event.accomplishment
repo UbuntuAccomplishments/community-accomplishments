@@ -5,7 +5,7 @@
   "category": "LoCo Teams:Events",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "loco.png",
+  "icon": "loco.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Michael Hall <mhall119@ubuntu.com>",
   "summary": "I Loco Team (Comunità Locali) sono gruppi di utenti locali in giro per  tutto il mondo nei quali la gente si trova per discutere su Ubuntu, condividere idee, suggerimenti, trucchi e conoscenza e lavorano assieme per diffondere la parola di Ubuntu e come si possa aiutare la gente. I LoCo Team spesso tengono incontri dove i membri si incontrano di persona. Gli eventi dei LoCo Team possono essere tecnici, per testare le ultime Ubuntu o per fare hacking di nuovo codice o assemblee sociali per celebrare un nuovo rilascio di Ubutnu o anche solo per un uscita tra amici.",

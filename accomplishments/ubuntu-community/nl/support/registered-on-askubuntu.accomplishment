@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "<a href=\"http://askubuntu.com\">Ask Ubuntu</a> is a web site where users can ask their questions related to Ubuntu. It is a great way of requesting support, it's easy and quick, and one does not need to register there to ask something. However, users who want to propose answers and use all functions of the site, including comments, voting, and many more, need to register an account.\nThis accomplishment unlocks all other trophies recieved by activity on Ask Ubuntu.",
   "steps": "Ga naar <a href=\"http://askubuntu.com\">http://askubuntu.com</a>.\nKlik op de <i>log in</i> link bovenaan de website.\nAls u al een account heeft, kan u deze gebruiken om in te loggen. Zoniet kiest u voor \"registreer\", zo zal u een StackExchange account aanmaken, welke u dan kan gebruiken om in te loggen.\nGeef alle gegevens op die gevraagd worden.\nEenmaal ingelogd, klik op uw gebruikersnaam bovenaan de site. Kopieer de link.\nIn deze applicatie selecteert u het <i>Edit->Identificatie</i> menu en plak dit link adres in het daarvoor voorziene veld. Dit zal het doelstellingensysteem inlichten over uw account.\nZodra uw account geverifieerd is, zal je deze trofee ontvangen.",

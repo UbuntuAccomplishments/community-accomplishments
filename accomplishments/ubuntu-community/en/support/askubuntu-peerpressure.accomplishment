@@ -3,7 +3,7 @@
   "description": "Deleted own post with score of -3 or lower",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Flagging & Cleanup",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-disciplined, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

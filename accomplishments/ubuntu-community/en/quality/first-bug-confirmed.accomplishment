@@ -3,7 +3,7 @@
   "description": "Filed a bug in Ubuntu that was confirmed by someone else",
   "collection": "ubuntu-community",
   "category": "QA",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/report-first-bug",
   "needs-signing": "true",
   "needs-information": "launchpad-email",

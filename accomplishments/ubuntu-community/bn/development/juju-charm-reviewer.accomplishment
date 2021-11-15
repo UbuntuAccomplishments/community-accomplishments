@@ -5,7 +5,7 @@
   "category": "Juju",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "juju.png",
+  "icon": "juju.svg",
   "depends": "ubuntu-community/juju-charm-contributor",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Juju is designed to simplify rapid production of software products and services. This technology is powered by the quality of the available charms; easily shareable packages of service deployment and orchestration knowledge. This accomplishment is for those trusted members of the community who review community charms which are submitted for approved inclusion in the Juju Store.",

@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu:Asking & Answering",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "depends": "ubuntu-community/askubuntu-niceanswer, ubuntu-community/askubuntu-goodanswer, ubuntu-community/registered-on-askubuntu",
   "author": "Jorge O. Castro <jorge@ubuntu.com>",
   "summary": "Answer score of 100 or more. These answers represent the very best content from Ask Ubuntu contributors. They typically take many revisions and additions to receive 100 votes from your peers.",

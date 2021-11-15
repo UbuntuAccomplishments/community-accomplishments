@@ -3,7 +3,7 @@
   "description": "First approved <a href=\"/tags/synonyms\">tag synonym</a>",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "summary": "First approved <a href=\"/tags/synonyms\">tag synonym</a>",

@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu:Comment",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "depends": "ubuntu-community/askubuntu-commentator, ubuntu-community/registered-on-askubuntu",
   "author": "Hernando Torque <sirius@sonnenkinder.org>",
   "summary": "I commenti sono note temporanee su una domanda o una risposta. Possono solo essere votati con voti aggiuntivi  e flaggati,  ma non generano un cambio di reputazione. Per guadagnare questo badge devi lasciare un totale di 10 commenti, ognuno con 5 o più voti aggiuntivi. Per lasciare un commento, semplicemente clicca sul link  <i>commenta</i> sotto ogni post.\nNota che mentre puoi commentare sempre i tuoi post e qualsiasi parte delle tue domande, commentare i post di altra gente è un privilegio che puoi ottenere dopo aver aumentato la tua reputazione.",

@@ -3,7 +3,7 @@
   "description": "Raised 500 helpful flags",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-deputy, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

@@ -5,7 +5,7 @@
   "category": "QA",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "En <i>bugg</i> är ett fel i en mjukvara. När du rapporterar en bugg innebär det att du delger Ubuntuprojektet information om ett sådant fel så att vi kan åtgärda det.\nDin buggrapport påbörjar en konversation mellan utvecklare och andra intresserade parter. Denna konversation går ut på att försöka hitta anledningen till problemet och tillhandahålla tillräckligt med information för att utvecklaren ska kunna åtgärda det. I denna konversation kan det ofta ingå att utvecklaren eller utvecklarna ber dig besvara olika frågor för att på så sätt spåra orsaken till problemet.\nKonversationen äger rum i en <i>bug tracker</i>; ett verktyg som innehåller funktioner för att hålla denna typ av konversationer. Verktyget innehåller också prioriteringsfält för att säkerställa att de allvarligaste buggarna åtgärdas tidigare än de mindre allvarliga.\nDet finns några olika sätt att rapportera buggar på, men vi rekommenderar att du använder ett verktyg som heter <tt>ubuntu-bug</tt> som finns förinstallerat i alla Ubuntusystem. Detta verktyg hjälper till att samla ihop nödvändig information som utvecklaren kan dra nytta av för att hitta källan till buggen och för att åtgärda den.\nDu kan rapportera en bugg på ett mer grafiskt sätt genom att använda <i>Rapportera ett problem</i> alternativet i en applikations <i>Hjälp</i> meny. Detta är bara ett grafiskt sätt att köra <tt>ubuntu-bug</tt> på.",

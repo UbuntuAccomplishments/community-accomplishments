@@ -5,7 +5,7 @@
   "category": "Documentation",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Die Ubuntu Fridge ist die offizielle Nachrichtenseite für die Ubuntu Gemeinschaft. Es ist ein gemeinschaftlich geschriebenes Nachrichtenportal, das Artikel, Nachrichten, Meinungen und andere Inhalte von überall aus der Welt und aus der Ubuntu Gemeinschaft bereit stellt.",

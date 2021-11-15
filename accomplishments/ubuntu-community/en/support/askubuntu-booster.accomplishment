@@ -3,7 +3,7 @@
   "description": "Shared a link to a question that was visited by 300 unique IP addresses",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Publicity",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "depends": "ubuntu-community/askubuntu-announcer, ubuntu-community/registered-on-askubuntu",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",

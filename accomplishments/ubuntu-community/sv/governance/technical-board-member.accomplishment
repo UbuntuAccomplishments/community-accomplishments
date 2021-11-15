@@ -5,7 +5,7 @@
   "category": "Governance",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "devel.png",
+  "icon": "devel.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Ubuntus tekniska styrelse är en av de viktigaste styrelserna i Ubuntus gemenskap. Den tekniska styrelsen ger råd och beslutar om teknisk policy och processer, så väl som att utgöra en eskalering för incidenter som uppstår någon annanstans i gemenskapen.\nFör att bli medlem i den tekniska styrelsen behöver du ha visat ett starkt engagemang och deltagande i Ubuntu, stora tekniska färdigheter och kännedom av arkivet, visat tydliga ledartalanger, och ha den lediga tid för att kunna se till styrelsens behov.",

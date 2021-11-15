@@ -3,7 +3,7 @@
   "description": "You have registered on Ask Ubuntu",
   "category": "Ask Ubuntu",
   "collection": "ubuntu-community",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "summary": "<a href=\"http://askubuntu.com\">Ask Ubuntu</a> is a web site where users can ask their questions related to Ubuntu. It is a great way of requesting support, it's easy and quick, and one does not need to register there to ask something. However, users who want to propose answers and use all functions of the site, including comments, voting, and many more, need to register an account.\nThis accomplishment unlocks all other trophies recieved by activity on Ask Ubuntu.",

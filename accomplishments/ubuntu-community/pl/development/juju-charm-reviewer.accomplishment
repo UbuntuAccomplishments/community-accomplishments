@@ -5,7 +5,7 @@
   "category": "Juju",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "juju.png",
+  "icon": "juju.svg",
   "depends": "ubuntu-community/juju-charm-contributor",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Technologia Juju oparta jest na jakości dostępnych Breloków. To osiągnięcie należy się zaufanym członkom społeczności, którzy przeglądają nowe Breloki i akceptują ich udostępnienie w Juju Store.",

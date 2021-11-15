@@ -3,7 +3,7 @@
   "description": "you have signed the Canonical Contributors agreement and can have branches merged.",
   "collection": "ubuntu-community",
   "category": "Development",
-  "icon": "devel.png",
+  "icon": "devel.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "needs-signing": "true",
   "needs-information": "launchpad-email",

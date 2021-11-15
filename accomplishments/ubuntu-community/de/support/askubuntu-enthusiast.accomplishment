@@ -5,7 +5,7 @@
   "category": "Ask Ubuntu",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "depends": "ubuntu-community/registered-on-askubuntu",
   "author": "Nathan Osman <admin@quickmediasolutions.com>",
   "summary": "Visited the site each day for 30 consecutive days",

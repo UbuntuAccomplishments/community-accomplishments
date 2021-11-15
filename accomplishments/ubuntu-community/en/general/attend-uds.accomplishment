@@ -4,7 +4,7 @@
   "collection": "ubuntu-community",
   "category": "Events",
   "needs-signing": "true",
-  "icon": "loco.png",
+  "icon": "loco.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "needs-information": "launchpad-email",
   "summary": "The Ubuntu Developer Summit is the event at which we plan for the forthcoming version of Ubuntu.\nIt brings together Canonical engineers, community members, partners, upstream representatives and cloud specialists, in an environment of active debate.\nThe Ubuntu Developer Summit offers sessions, tracks, meet-ups and other events for anyone with an interest in Ubuntu.\nWe even provide a number of online services to allow remote participation if you can't attend the event in person.",

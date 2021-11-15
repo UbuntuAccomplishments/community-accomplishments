@@ -3,7 +3,7 @@
   "description": "Question favorited by 100 users",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-favoritequestion, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

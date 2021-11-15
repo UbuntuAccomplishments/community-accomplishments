@@ -3,7 +3,7 @@
   "description": "You have reported your first bug in Ubuntu",
   "collection": "ubuntu-community",
   "category": "QA",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "needs-signing": "true",
   "needs-information": "launchpad-email",

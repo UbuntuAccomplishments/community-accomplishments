@@ -3,7 +3,7 @@
   "description": "Edited 100 posts that were inactive for 6 months",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-excavator, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

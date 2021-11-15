@@ -3,7 +3,7 @@
   "description": "Left 10 comments with score of 5 or more",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Comment",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-commentator, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

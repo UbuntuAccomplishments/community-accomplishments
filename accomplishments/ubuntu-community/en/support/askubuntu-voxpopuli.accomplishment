@@ -3,7 +3,7 @@
   "description": "Used the maximum 40 votes in a day",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Voting",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-suffrage, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

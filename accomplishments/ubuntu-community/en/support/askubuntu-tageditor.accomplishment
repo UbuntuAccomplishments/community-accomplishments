@@ -3,7 +3,7 @@
   "description": "First Tag Wiki Edit",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Tagging",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

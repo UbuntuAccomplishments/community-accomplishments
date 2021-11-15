@@ -5,7 +5,7 @@
   "category": "QA",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/report-first-bug",
   "author": "Bruno Girin <brunogirin@gmail.com>",
   "summary": "Ein Bug ist ein Defekt in einem Teil von Software. Bugs zu melden ist ein großartiger Weg Ubuntu zu verbessern und im Falle, dass der Bug behoben (\"gefixt\") werden soll, sollte jemand anders in der Lage sein diesen Fehler nachzuproduzieren und ihn zu bestätigen. Je präziser und detailierter ihr Fehlerbericht (\"bug report\") ist, umso wahrscheinlicher ist die Chance, dass er von jemand anderem nachproduziert werden kann. Diese Errungenschaft reflektiert das mindestens einer ihrer Fehlerberichte in einem so guten Zustand ist, dass er von jemand anderem bestätigt wurde.",

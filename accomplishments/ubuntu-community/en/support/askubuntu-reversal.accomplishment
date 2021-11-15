@@ -3,7 +3,7 @@
   "description": "Provided answer of +20 score to a question of -5 score",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "summary": "Provided answer of +20 score to a question of -5 score",

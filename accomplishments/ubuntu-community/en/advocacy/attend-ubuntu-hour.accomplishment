@@ -4,7 +4,7 @@
   "collection": "ubuntu-community",
   "category": "LoCo Teams:Events",
   "needs-signing": "true",
-  "icon": "loco.png",
+  "icon": "loco.svg",
   "depends": "ubuntu-community/attend-loco-event",
   "needs-information": "launchpad-email",
   "summary": "The Ubuntu Global Jam is an incredible opportunity for the Ubuntu community to unite together to work together to improve Ubuntu.\nEveryone is able to contribute to the Jam, and everyone is welcome and encouraged to get involved.\nThe Ubuntu Global Jam incorporates events that have been organized over the world to get Ubuntu contributors and fans together to have a great time and improve Ubuntu.",

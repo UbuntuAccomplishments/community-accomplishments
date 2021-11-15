@@ -5,7 +5,7 @@
   "category": "Launchpad:Your Profile",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "launchpad.png",
+  "icon": "launchpad.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Andrea Grandi <a.grandi@gmail.com>",
   "summary": "\"Mugshot\" jest obrazkiem który ustawia się w profilu użytkownika na Launchpadzie. Identyfikowanie ludzi po ich twarzach jest całkiem fajne.\nZalecamy wstawić prawdziwe Twoje zdjęcie (tradycyjnie uwidaczniające tylko twarz), lub inny avatar, który naprawdę lubisz. Unikaj obrazków, które mogą zawierać treści obraźliwe lub niestosowne.\nObrazek musi być o dokładnych wymiarach: <strong>192x192</stron>, i nie może być większy niż <strong>100 Kb</strong>.",

@@ -3,7 +3,7 @@
   "description": "Used 30 votes in a day",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Voting",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

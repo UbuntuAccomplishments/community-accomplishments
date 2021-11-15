@@ -3,7 +3,7 @@
   "description": "10 posts with score of 2 on <a href=\"$MetaUrl\">meta</a>",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/askubuntu-quorum, ubuntu-community/registered-on-askubuntu",

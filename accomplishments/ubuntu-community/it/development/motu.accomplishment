@@ -5,7 +5,7 @@
   "category": "Development:Packaging",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "devel.png",
+  "icon": "devel.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Uno sviluppatore Ubuntu MOTU è responsabile della creazione dei pacchetti e della risoluzione dei problemi nell'archivio <tt>universe</tt>. Questo include un'ampia varietà di applicazioni che sono portate in Ubuntu da Debian.",

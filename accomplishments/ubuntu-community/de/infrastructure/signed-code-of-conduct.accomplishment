@@ -5,7 +5,7 @@
   "category": "General",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Der Ubuntu Verhaltenskodex (\"Code of Conduct\") ist ein wichtiges Dokument, das Regeln und Erwartungen festlegt, wie man sich in der Ubuntu Gemeinschaft verhalten soll.\nEs beinhaltet Erwartungen wie man sich rücksichtsvoll, respektvoll und helfend zu verhalten hat,  wie man nach Hilfe fragen sollte und wie man sich am besten zurück zieht, wenn man zu beschäftigt wird.\nDie Trophäe ist verliehen wenn man sich einverstanden erklärt diese Erwartungen in der Gemeinschaft zu erfüllen und man den Ubuntu Verhaltenskodex unterschrieben hat.",

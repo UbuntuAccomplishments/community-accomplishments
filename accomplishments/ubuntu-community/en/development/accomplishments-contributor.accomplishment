@@ -3,7 +3,7 @@
   "description": "You have contributed an accomplishment to the official accomplishments collection",
   "collection": "ubuntu-community",
   "category": "Development:Ubuntu Accomplishments",
-  "icon": "devel.png",
+  "icon": "devel.svg",
   "depends": "ubuntu-community/imported-ssh-key",
   "needs-signing": "true",
   "needs-information": "launchpad-email",

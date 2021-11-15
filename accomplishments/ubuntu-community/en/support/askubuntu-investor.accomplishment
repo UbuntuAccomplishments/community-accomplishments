@@ -3,7 +3,7 @@
   "description": "First bounty you offered on another person's question",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Bounty",
-  "icon": "askubuntu-bronze.png",
+  "icon": "askubuntu-bronze.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

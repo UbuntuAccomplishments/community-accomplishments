@@ -5,7 +5,7 @@
   "category": "Forums",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "forums.png",
+  "icon": "forums.svg",
   "depends": "ubuntu-community/ubuntu-member",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "summary": "Ubuntu membership generally recognizes significant and sustained contributions to Ubuntu. An active Forums contributor is held to the same standards, but the main focus of activity is in the Ubuntu Forums.",

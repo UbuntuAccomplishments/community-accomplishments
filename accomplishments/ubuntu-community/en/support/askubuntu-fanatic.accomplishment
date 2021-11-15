@@ -3,7 +3,7 @@
   "description": "Visited the site each day for 100 consecutive days",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Visiting",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-enthusiast, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

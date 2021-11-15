@@ -5,7 +5,7 @@
   "category": "General",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/signed-code-of-conduct",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "summary": "Il Team di Ubuntu Beginners esiste per migliorare l'esperienza iniziale dei nuovi  utenti Ubuntu e per guidare gli utenti Ubuntu esistenti per diventare parte della comunità Ubuntu globale. IL Team Beginners ti aiuta a essere coinvolto nel meraviglioso mondo della Comunità Ubuntu.\nL'iscrizione al Team è aperta a chiunque così come la partecipazione a una comunità più estesa.",

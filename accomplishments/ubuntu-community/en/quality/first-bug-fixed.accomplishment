@@ -3,7 +3,7 @@
   "description": "Fixed a bug in which you are the assignee",
   "collection": "ubuntu-community",
   "category": "QA",
-  "icon": "devel.png",
+  "icon": "devel.svg",
   "depends": "ubuntu-community/report-first-bug",
   "needs-signing": "true",
   "needs-information": "launchpad-email",

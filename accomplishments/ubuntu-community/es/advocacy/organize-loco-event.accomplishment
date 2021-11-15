@@ -5,7 +5,7 @@
   "category": "LoCo Teams:Events",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "loco.png",
+  "icon": "loco.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Michael Hall <mhall119@ubuntu.com>",
   "summary": "LoCo Teams often hold physical meetups where members can meet eachother in person, and they need somebody to organize and promote them. You can be a leader within your own LoCo Team by helping plan these events.\nPlanning doesn't usually require much, all you need is a suitable venue (a coffee shop or library will do), pick a day and time, and let the rest of your team know about it.",

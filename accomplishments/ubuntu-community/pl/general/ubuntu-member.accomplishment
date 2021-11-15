@@ -5,7 +5,7 @@
   "category": "General",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Członek Ubuntu jest to ktoś, kto wykazał <i>znaczący i długoterminowy</i> wkład w Ubuntu.\nKażdy Członek Ubuntu jest kimś odpowiedzialnym, można na nim polegać, a jego wkład w Ubuntu czyni je jeszcze lepszym.\nCo ważne, Członkostwo Ubuntu nie wymaga żadnych konkretnych uzdolnień; warty uznania jest wkład zarówno w programowanie, jak i przygotowywanie dokumentacji, tłumaczenie, doradztwo prawne, wsparcie dla użytkowników, projektowanie wyglądu i inne.",

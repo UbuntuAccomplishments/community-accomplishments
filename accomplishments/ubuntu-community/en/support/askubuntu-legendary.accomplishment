@@ -3,7 +3,7 @@
   "description": "Earned 200 daily reputation 150 times",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu",
-  "icon": "askubuntu-gold.png",
+  "icon": "askubuntu-gold.svg",
   "needs-signing": "true",
   "depends": "ubuntu-community/askubuntu-epic, ubuntu-community/askubuntu-mortarboard, ubuntu-community/registered-on-askubuntu",
   "needs-information": "askubuntu-user-url",

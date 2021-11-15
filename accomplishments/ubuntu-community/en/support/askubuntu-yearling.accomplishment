@@ -3,7 +3,7 @@
   "description": "Active member for a year, earning at least 200 reputation",
   "collection": "ubuntu-community",
   "category": "Ask Ubuntu:Membership",
-  "icon": "askubuntu-silver.png",
+  "icon": "askubuntu-silver.svg",
   "needs-signing": "true",
   "needs-information": "askubuntu-user-url",
   "depends": "ubuntu-community/registered-on-askubuntu",

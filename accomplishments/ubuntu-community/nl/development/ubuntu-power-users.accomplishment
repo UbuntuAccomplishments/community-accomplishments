@@ -5,7 +5,7 @@
   "category": "General",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "ubuntu-power-users.png",
+  "icon": "ubuntu-power-users.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Philip Ballew <philipballew@ubuntu.com>",
   "summary": "The Ubuntu Power Users is a group who advocated the customazation and configurability of Ubuntu. This is done by showcaseing the ways we can configure Ubuntu, and make it a system that works for us all.",

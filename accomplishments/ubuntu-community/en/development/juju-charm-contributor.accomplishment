@@ -3,7 +3,7 @@
   "description": "You contribute Juju charms to Ubuntu.",
   "collection": "ubuntu-community",
   "category": "Juju",
-  "icon": "juju.png",
+  "icon": "juju.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "needs-signing": "true",
   "needs-information": "launchpad-email",

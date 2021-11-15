@@ -5,7 +5,7 @@
   "category": "General",
   "needs-signing": "true",
   "needs-information": "launchpad-email",
-  "icon": "default.png",
+  "icon": "default.svg",
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "El código de conducta de Ubuntu es un documento importante que proporciona un conjunto de directrices y expectativas de buena conducta en la comunidad de Ubuntu.\nQuien lo firma acepta ser considerado, respetuoso y colaborador, este documento también especifica la forma de pedir ayuda y de dimitir cuando se encuentra demasiado ocupado.\nEste trofeo se concede cuando decide cumplir con estas expectativas en la comunidad y ha firmado el código de conducta de Ubuntu.",
