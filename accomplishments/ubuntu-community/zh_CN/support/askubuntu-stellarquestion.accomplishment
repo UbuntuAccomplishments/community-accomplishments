@@ -12,5 +12,5 @@
   "steps": "Post a question which many people may require a solution.",
   "tips": "Design well thought out questions with a single problem to be solved.\nInclude images and/or screen-shots only if appropriate.\nChoose a topic which covers a basic and popular service in Ubuntu.",
   "pitfalls": "Asking questions which are derived from configuration errors or user mistakes.\nPosting poorly written or brief questions. Leaving out details needed to solve the question.\nUnnecessarily long questions with extra details. Providing information for \"just in case\" purposes.",
-  "help": "#ubuntu-community-team on Freenode"
+  "help": "#ubuntu-community-team on LiberaChat"
 }

@@ -12,5 +12,5 @@
   "steps": "Provide a correct answer to a question posted by ones self.\nReceive 3 up votes on your provided answer by the Ask Ubuntu community.",
   "tips": "Answers should be very descriptive with each step displayed in succession.\nImages and screen-shots in answers are helpful and will receive more attention if appropriately used.",
   "pitfalls": "Vague or generic answers with links to other blogs are not easy to understand.\nObvious answers will not impress the community thus lowering the chance of up scoring.",
-  "help": "#ubuntu-community-team en Freenode"
+  "help": "#ubuntu-community-team en LiberaChat"
 }

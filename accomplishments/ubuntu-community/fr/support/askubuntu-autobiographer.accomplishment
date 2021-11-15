@@ -10,5 +10,5 @@
   "author": "Marco Ceppi <marco@ceppi.net>",
   "summary": "While a profile, or an account, isn't required to use Ask Ubuntu having one allows you to track your progress, reputation, and badges. Filling out your profile helps to build your reputation and identity on the site. By completing all user profile fields you'll be awarded this accomplishment and badge.",
   "steps": "Log in to Ask Ubuntu.\nClick on your user in Stack Exchange Global bar.\nSelect the \"edit\" button next to your name.\nFill in all possible user profile fields.",
-  "help": "#ubuntu-community-team sur Freenode"
+  "help": "#ubuntu-community-team sur LiberaChat"
 }

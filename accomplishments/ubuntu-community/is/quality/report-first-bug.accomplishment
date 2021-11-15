@@ -12,5 +12,5 @@
   "steps": "Opnaðu útstöð með því að ýta á Ubuntu takkann og skrifa <i>terminal</i>. Í útstöðina skrifar þú svo <tt>ubuntu-bug</tt> og lætur svo nafn pakkans fylgja (dæmi: <tt>ubuntu-bug unity</tt> fyrir Unity). Ef þú veist ekki hvað pakkinn heitir, skrifaðu þá bara <tt>ubuntu-bug</tt> og fylgdu leiðbeiningunum sem fylgja.\nFylgdu leiðbeiningunum í Launchpad.",
   "tips": "Reynið að lýsa villunni vel og hnitmiðað.\nEf þú veist hvað þarf að gera til að fá fram villuna, vinsamlegast láttu það fylgja. Það er það sem við köllum að <i>framkalla villuna</i>.\nHafðu í huga að þegar þú tilkynnir villur ertu að biðja hönnuð forritsins að taka frá tíma til að laga villuna, því biðjum við þig að vera hjálpsama(n) og kurteisa(n) og taka tillit til þess tíma sem það gæti tekið að laga villuna.",
   "pitfalls": "Ekki tilkynna villur ef það er eitthvað í forritinu sem fer í taugarnar á þér, tilkynnið ef það er eitthvað sem virkar ekki eins og það ætti að virka.\nEkki skrifa í umræður um villur: „mig líka“, notaðu frekar <i>this bug affects me</i> (isl. þessi villa er líka hjá mér) tengilinn sem er efst í villu tilkynningunni (í Launchpad).",
-  "help": "#ubuntu-testing á Freenode\n#ubuntu.is á Freenode"
+  "help": "#ubuntu-testing á LiberaChat\n#ubuntu.is á LiberaChat"
 }

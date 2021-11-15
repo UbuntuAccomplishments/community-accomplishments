@@ -11,6 +11,6 @@
   "links": "https://wiki.ubuntu.com/QATeam/ContributingTestcases/Autopilot\nhttp://www.youtube.com/watch?v=qD_e_xqlBbg",
   "tips": "Prioritaze our <a href=\"https://bugs.launchpad.net/ubuntu-autopilot-tests/+bugs?field.tag=todo\">todo list</a> if you're unsure on what to work on.\nImprove current testcases instead of create new ones.\nSay hello at #ubuntu-autopilot or present yourself in the <a href=\"https://lists.ubuntu.com/mailman/listinfo/ubuntu-quality\">quality mailing list</a>.\nAssist to a <a href=\"https://wiki.ubuntu.com/QATeam/Hackfest\">Hackfest</a>.",
   "pitfalls": "Start writing an Autopilot testcase without assigning to yourself an <a href=\"https://bugs.launchpad.net/ubuntu-autopilot-tests/+bugs?field.tag=todo\">open report</a>(if available).\nCreate an Autopilot testcase based on an application running in a released Ubuntu version.",
-  "help": "#ubuntu-quality, #ubuntu-autopilot on Freenode",
+  "help": "#ubuntu-quality, #ubuntu-autopilot on LiberaChat",
   "author": "Javier Lopez <chilicuil@ubuntu.com>"
 }

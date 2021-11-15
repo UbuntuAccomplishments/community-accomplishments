@@ -12,5 +12,5 @@
   "steps": "Aprire un terminale facendo clic sul pulsante Ubuntu e digitando <i>terminale</i> nella dash (cruscotto).\nDigitare <tt>ubuntu-bug</tt> e poi il nome del pacchetto per il quale vuoi aprire un bug (per es. <tt>ubuntu-bug unity</tt> per Unity). Se non conosci il nome del pacchetto, esegui semplicemente <tt>ubuntu-bug</tt> da solo e segui le istruzioni.\nSegui le istruzioni in Launchpad.",
   "tips": "Cercare sempre di essere concisi e dettagliati nelle segnalazioni di bug.\nSe conosci i passi che portano a scatenare il bug, includere questi passi nella descrizione del bug. Questo è chiamato <i>riprodurre il bug</i>.\nRicordati, quando apri una segnalazione di bug stai chiedendo ad uno sviluppatore di prendere del tempo per risolverlo. Cerca di essere disponibile, educato, e rispettoso per il loro tempo.",
   "pitfalls": "Non aprire bug per cose che sono frustranti per te nel programma software; aprire bug solo per cose che non funzionano come ci si aspetta.\nNon rispondere a un bug dicendo \"Anche a me!\"; invece usa il link <i>this bug affects me</i> in cima alla segnalazione (in Launchpad).",
-  "help": "#ubuntu-testing on Freenode"
+  "help": "#ubuntu-testing on LiberaChat"
 }

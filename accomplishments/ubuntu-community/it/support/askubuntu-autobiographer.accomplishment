@@ -10,5 +10,5 @@
   "author": "Marco Ceppi <marco@ceppi.net>",
   "summary": "Mentre non è richiesto un profilo o un account per usare Ask Ubuntu è necessario averne uno per tener traccia dei tuoi progressi,  della reputazione e dei badge. Compilare il tuo profilo ti aiuta a costruire la tua reputazione e identità nel sito. Completando tutti i campi del profilo utente sarai premiato con questo compimento e badge.",
   "steps": "Fai login su Ask Ubuntu.\nClicca sul tuo utente nella barra globale Stack Exchange.\nScegli il tasto \"edit\" vicino al tuo nome.\nRiempi tutti i campi possibili del tuo profilo utente.",
-  "help": "#ubuntu-community-team su Freenode"
+  "help": "#ubuntu-community-team su LiberaChat"
 }

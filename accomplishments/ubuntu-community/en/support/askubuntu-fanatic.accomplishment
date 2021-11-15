@@ -12,6 +12,6 @@
   "pitfalls": "Forgetting to visit. If you don't return after a full day has passed, you'll have to start over again.",
   "links": "http://www.askubuntu.com",
   "tips": "It's likely a good idea to leave an open tab in your browser and/or stay signed in to Ask Ubuntu for convenience.\nVisiting Ask Ubuntu while trying to earn this badge can help you earn other badges more quickly if you make the most of your visits.",
-  "help": "#ubuntu-community-team on Freenode",
+  "help": "#ubuntu-community-team on LiberaChat",
   "author": "Christopher Kyle Horton <christhehorton@gmail.com>"
 }

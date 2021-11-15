@@ -10,6 +10,6 @@
   "summary": "Zero score accepted answers: more than 10 and 25% of total",
   "steps": "Answer questions that get accepted by the person who asked it.\nIf more than 10 of your answers are marked as accepted answers but have gotten 0 votes from your peers and 20% of your total answers you get this badge.",
   "links": "http://www.askubuntu.com",
-  "help": "#ubuntu-community-team on Freenode",
+  "help": "#ubuntu-community-team on LiberaChat",
   "author": "Jorge O. Castro <jorge@ubuntu.com>"
 }

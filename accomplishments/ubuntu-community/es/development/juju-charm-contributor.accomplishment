@@ -10,5 +10,5 @@
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Juju es una nueva tecnología altamente dependiente de las archivos disponibles para su configuración. Este trofeo es para aquellos miembros de la comunidad que hayan contribuido recetas a Juju. Las recetas comúnmente se encargan de configurar de forma genérica un servicio y proveen de relaciones básicas para que puedan combinarse con otros servicios.",
   "steps": "Envie un conjunto de recetas para Juju\nContribuya de forma constante y con recetas de buena calidad para la comunidad\nPregunte a un miembro del equipo de contribuidores de Juju para ser miembro",
-  "help": "#juju en Freenode"
+  "help": "#juju en LiberaChat"
 }

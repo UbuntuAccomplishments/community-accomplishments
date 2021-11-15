@@ -12,5 +12,5 @@
   "steps": "Deschide un terminal prin apăsarea butonului Ubuntu și tastarea cuvântului <i>terminal</i> în fereastră.\nTastează <tt>ubuntu-bug</tt> și numele pachetului pentru care vrei să raportezi o problemă (ex.: <tt>ubuntu-bug unity</tt> pentru Unity). Dacă nu știi numele pachetului, rulează doar <tt>ubuntu-bug</tt> și urmează instrucțiunile.\nUrmează instrucțiunile în Launchpad.",
   "tips": "Încearcă întotdeauna să fii concis dar și detaliat în rapoartele de erori. \nDacă știi pașii care trebuie făcuți pentru a declanșa eroarea, include acei pași în descrierea erorii. Aceasta se numește <i>reproducerea erorii</i>. \nȚine minte, când înregistrezi o eroare, chemi un programator să o rezolve. Încearcă să fii cât mai cooperant, politicos și respectă timpul pe care acesta îl dedică rezolvării acelei erori.",
   "pitfalls": "Nu înregistra erori pentru lucruri care te frustrează într-un program; înregistrează erori numai când un program nu funcționează așa cum ar trebui.  \nNu răspunde la o eroare cu \"și eu!\"; folosește link-ul <i>this bug affects me</i>(această eroare mă afectează) aflat deasupra raportului de eroare (în Launchpad).",
-  "help": "#ubuntu-testing pe Freenode"
+  "help": "#ubuntu-testing pe LiberaChat"
 }

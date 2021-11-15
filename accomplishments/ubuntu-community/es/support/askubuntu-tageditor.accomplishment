@@ -12,5 +12,5 @@
   "steps": "<a href=\"http://askubuntu.com/tags\">Find a tag</a> you want to contribute to and click on it.\nClick on \"improve tag wiki\".\nImprove the excerpt and description.\nClick Save Edits to send it to the submission queue.",
   "tips": "Cross-link official Ubuntu documentation and other official resources.\nIf the tag is about another project link to its project pages.",
   "pitfalls": "Don't just copy and paste articles from Wikipedia. Refer to them, and make the excerpt relevant to Ubuntu users.",
-  "help": "#ubuntu-community-team en Freenode"
+  "help": "#ubuntu-community-team en LiberaChat"
 }

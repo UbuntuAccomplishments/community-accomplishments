@@ -11,6 +11,6 @@
   "steps": "Post a question or answer (an unintentionally bad one).\nWait for it to get a score of -3 (where <i>score</i> is the difference between up- and downvotes).\nDelete the post by clicking on the <i>delete</i> link below it.",
   "pitfalls": "The post must have a score of -3 or less at the time of deletion.\nPlease don't intentionally try to get this badge. ;-)",
   "links": "http://www.askubuntu.com\nhttp://askubuntu.com/privileges/vote-up\nhttp://askubuntu.com/privileges/vote-down",
-  "help": "#ubuntu-community-team on Freenode",
+  "help": "#ubuntu-community-team on LiberaChat",
   "author": "Hernando Torque <sirius@sonnenkinder.org>"
 }

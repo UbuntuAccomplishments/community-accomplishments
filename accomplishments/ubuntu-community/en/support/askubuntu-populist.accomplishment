@@ -11,6 +11,6 @@
   "steps": "Search for <a href=\"http://askubuntu.com/search?q=hasaccepted%3A1\">accepted answers</a> in your area of expertise (you can use <a href=\"http://askubuntu.com/tags\">tags</a> to narrow down the search result).\nProvide an awesome answer to reach the necessary high score (where <i>score</i> is the difference between up- and downvotes).",
   "pitfalls": "It is not an answer to your own question.",
   "links": "http://www.askubuntu.com\nhttp://askubuntu.com/tags\nhttp://askubuntu.com/search?q=",
-  "help": "#ubuntu-community-team on Freenode",
+  "help": "#ubuntu-community-team on LiberaChat",
   "author": "Hernando Torque <sirius@sonnenkinder.org>"
 }

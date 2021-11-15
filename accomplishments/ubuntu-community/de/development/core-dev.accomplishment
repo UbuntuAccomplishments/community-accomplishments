@@ -10,5 +10,5 @@
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Ein Ubuntu Kern-Entwickler ist für das Zusammenstellen von Software-Packeten und Problemlösungen im  <tt>main</tt> (Haupt) Archiv verantwortlich. Das beinhaltet einige der kritischsten Software, die Teil des Ubuntu Systems ist und den Teilen, die mit einer standardgemäßen Ubuntu Installation mitgeliefert werden.",
   "steps": "Tragen Sie über eine längeren Zeitraum intensiv zu Ubuntu bei.\nReihen Sie sich in der Ubuntu Sponsorship Warteschlange (\"Ubuntu Sponsorship Queue\") ein um beizutragen.\nBewerbe Sie sich beim Ubuntu Entwickler Vorstand (\"Ubuntu Developer Board\") um ein Kern-Entwickler zu werden.",
-  "help": "International:\n#ubuntu-devel auf Freenode"
+  "help": "International:\n#ubuntu-devel auf LiberaChat"
 }

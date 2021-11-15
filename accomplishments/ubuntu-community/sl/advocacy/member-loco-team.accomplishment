@@ -10,5 +10,5 @@
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Ekipe Ubuntu Loco so uporabniške skupine po vsem svetu kjer se ljudje dobivajo za razpravljanje o Ubuntuju, deljenje idej, trikov in nasvetov in skupaj širijo besedo o Ubuntuju in kako lahko pomaga ljudem.",
   "steps": "Pojdite na <tt>loco.ubuntu.com</tt> in najdite ekipo, ki se ji želite pridružiti. Trofejo dobite ne glede na to ali ej ekipa LoCo uradno priznana ali ne.",
-  "help": "#ubuntu-si na strežniku Freenode\n#ubuntu-locoteams na strežniku Freenode\n#ubuntu-community-team na strežniku Freenode"
+  "help": "#ubuntu-si na strežniku LiberaChat\n#ubuntu-locoteams na strežniku LiberaChat\n#ubuntu-community-team na strežniku LiberaChat"
 }

@@ -12,6 +12,6 @@
   "tips": "Cross-link official Ubuntu documentation and other official resources.\nIf the tag is about another project link to its project pages.",
   "pitfalls": "Don't just copy and paste articles from Wikipedia. Refer to them, and make the excerpt relevant to Ubuntu users.",
   "links": "http://www.askubuntu.com",
-  "help": "#ubuntu-community-team on Freenode",
+  "help": "#ubuntu-community-team on LiberaChat",
   "author": "Jorge O. Castro <jorge@ubuntu.com>"
 }

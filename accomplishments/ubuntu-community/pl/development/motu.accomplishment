@@ -10,5 +10,5 @@
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Ubuntu MOTU Deweloper (Masters Of The Universe, ang. Władcy Wszechświata) jest odpowiedzialny za pakowanie i rozwiązywania problemów w archiwum \"wszechświata\" (ang. the <tt>universe</tt> archive). Obejmuje to szeroki zakres aplikacji, które zostały wprowadzone do Ubuntu z Debiana.",
   "steps": "Przyczynić się w znacznym stopniu do projektu Ubuntu na dłuższy okres czasu.\nSkorzystaj z kolejki Sponsoringu Ubuntu (ang. Ubuntu Sponsorship Queue) by wnieść swój pierwszy wkład.\nZwrócić się do Zarządu Ubuntu Developer by zostać deweloperem MOTU.",
-  "help": "#ubuntu-devel na Freenode"
+  "help": "#ubuntu-devel na LiberaChat"
 }

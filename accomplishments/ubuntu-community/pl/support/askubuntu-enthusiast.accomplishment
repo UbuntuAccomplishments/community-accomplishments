@@ -11,5 +11,5 @@
   "summary": "Odwiedź stronę każdego dnia przez 30 kolejnych dni",
   "steps": "Dać instrukcje krok po kroku aby tego dokonać. Każdy krok powinien być w nowej linii z karty na początku, jak to.",
   "pitfalls": "A set of things the user should avoid while perusing this accomplishment (each one added on a new line).",
-  "help": "#ubuntu-community-team on Freenode"
+  "help": "#ubuntu-community-team on LiberaChat"
 }

@@ -11,6 +11,6 @@
   "steps": "Visit the Ask Ubuntu FAQ\nClick and Read each section of the FAQ",
   "pitfalls": "Not reading each section of the FAQ may lead to confusion about how the site works.",
   "links": "http://www.askubuntu.com/faq\nhttp://www.askubuntu.com",
-  "help": "#ubuntu-community-team on Freenode",
+  "help": "#ubuntu-community-team on LiberaChat",
   "author": "Marco Ceppi <marco@ceppi.net>"
 }

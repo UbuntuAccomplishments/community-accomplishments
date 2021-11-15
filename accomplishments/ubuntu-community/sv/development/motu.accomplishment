@@ -10,5 +10,5 @@
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "En Ubuntu MOTU-utvecklare är ansvarig för packetering och hantering av konflikter i <tt>universe</tt>-arkivet. Detta arkiv innehåller en stor mängd olika applikationer som kommer till Ubuntu från Debian.",
   "steps": "Kom med betydande bidrag till Ubuntu under en sammanhängande tidsperiod.\nAnvänd Ubuntu Sponsorship Queue för att göra dina bidrag.\nAnsök till Ubuntu Developer Board för att bli en MOTU utvecklare.",
-  "help": "#ubuntu-devel på Freenode"
+  "help": "#ubuntu-devel på LiberaChat"
 }

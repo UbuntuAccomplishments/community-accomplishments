@@ -12,6 +12,6 @@
   "tips": "Join the IRC channel best suited for the branch you are working on and talk to developers, they will be glad to help you.\nRead bazaar documentation to get acquainted with it.\nThe first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!\nMany projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.",
   "pitfalls": "If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.",
   "links": "https://help.launchpad.net/Code/Review\nhttp://wiki.bazaar.canonical.com/Tutorials",
-  "help": "#ubuntu-devel on Freenode",
+  "help": "#ubuntu-devel on LiberaChat",
   "author": "Angelo Compagnucci <angelo.compagnucci@gmail.com>"
 }

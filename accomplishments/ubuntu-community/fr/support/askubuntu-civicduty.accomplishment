@@ -12,5 +12,5 @@
   "steps": "Find content on the site that deserves an up-vote or a down-vote.\nUse the arrows next to the post to vote either way depending on your opinion of the post's quality and content.\nRepeat this over 300 times.",
   "tips": "Don't be afraid to vote down poor content. Down-votes are just as valuable to the community as up-votes.\nIf you do down-vote consider leaving a comment on the post explaining how the author can improve it.",
   "pitfalls": "The site has several measures to prevent serial voting. Avoid voting several times in a row against the same user as it may trigger this mechanism.",
-  "help": "#ubuntu-community-team sur Freenode"
+  "help": "#ubuntu-community-team sur LiberaChat"
 }

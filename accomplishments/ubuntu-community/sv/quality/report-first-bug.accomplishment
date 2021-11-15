@@ -12,5 +12,5 @@
   "steps": "Open up a terminal by clicking the Ubuntu button and typing <i>terminal</i> into the dash.\nType in <tt>ubuntu-bug</tt> and then the name of the package you want to file a bug against (e.g. <tt>ubuntu-bug unity</tt> for Unity). If you don't know the package name, just run <tt>ubuntu-bug</tt> by itself and follow the instructions.\nFollow the instructions in Launchpad.",
   "tips": "Försök alltid vara koncis och detaljerad i dina buggrapporter.\nOm du känner till stegen för att utlösa buggen, inkludera dessa steg i din buggbeskrivning. Detta kallas <i>återskapa buggen</i>.\nKom ihåg, när du rapporterar en bugg så ber du en utvecklare att ta sig tid för att åtgärda den. Försök vara hjälpsam, artig och att respektera deras tid.",
   "pitfalls": "Rapportera inte buggar för sådant du irriterar dig på i en mjukvara; rapportera endast buggar då det inte fungerar som förväntat.\nSvara inte på en buggrapport med \"jag också!\"; använd istället <i>this bug affects me</i> länken längst upp i buggrapporten (i Launchpad).",
-  "help": "#ubuntu-testing på Freenode"
+  "help": "#ubuntu-testing på LiberaChat"
 }

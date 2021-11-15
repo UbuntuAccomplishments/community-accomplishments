@@ -12,6 +12,6 @@
   "tips": "You can gain the privilege to retag questions at will once you have 500 reputation.\nKeep in mind that questions need at least one tag and no more than five.\nIf several closely-related tags are used on the same question, you should see if you can just leave the most specific tag on the question and remove the others.\n\"Meta\" tags are tags which could apply to such a wide range of questions that they are not useful for categorization purposes. Examples include \"error\" and \"help\". If you see meta tags, be sure to remove them!\nYou can create new tags if none of the pre-existing tags found in search quite describe the question. Note that you will first need 300 reputation to create new tags, however.",
   "pitfalls": "Removing relevant tags. Tags help users find certain kinds of questions faster, and if those tags aren't there, finding becomes more difficult. Remove tags only if you know they don't belong on that particular question.\nAdding redundant tags. Multiple tags which basically mean the same thing, when used together, simply use up space that could be used for other useful tags.",
   "links": "http://www.askubuntu.com",
-  "help": "#ubuntu-community-team on Freenode",
+  "help": "#ubuntu-community-team on LiberaChat",
   "author": "Christopher Kyle Horton <christhehorton@gmail.com>"
 }

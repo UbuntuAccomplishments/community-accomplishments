@@ -12,5 +12,5 @@
   "steps": "Otworz terminal - aby to zrobić wciśnij klawisz Super ( jest to klawisz z logo Windows) i wpisz w polu wyszukiwania <i>terminal</i>.\nW terminalu wpisz <tt>ubuntu-bug</tt> i po spacji dodaj nazwę aplikacji/pakietu w której wykryłeś błąd i chcesz go zgłosić (np. <tt>ubuntu-bug unity</tt> dla programu Unity ). Jeżeli nie znasz nazwy pakietu wpisz po prostu <tt>ubuntu-bug</tt> i postępuj zgodnie z instrukcjami.\nNastępie postępuj zgodnie ze wskazaniami w portalu Launchpad.",
   "tips": "Zawsze staraj się być zwięzły i zarazem szczegółowy podczas zgłaszania błędu.\nJeżeli pamiętasz kroki, które robiłeś kiedy wystąpił problem, dołącz je do opisu błędu. Ta czynność zwana jest <i>Odtwarzaniem błędu</i>.\nPamiętaj, przez zgłaszanie błędu prosisz dewelopera o jego czas żeby rozwiązać problem. Postaraj się byś uczynny, grzeczny i szanuj ten czas.",
   "pitfalls": "Nie zgłaszaj błędu, jeżeli sposób w jaki działa dany program irytuje Cię; rób to wyłącznie gdy program działa niepoprawnie.\nNie odpowiadaj na błąd pisząc \"u mnie też!\", \"to samo!\" itp. ; zamiast tego użyj przycisku <i>Ten błąd dotyczy mnie</i> ( <i>this bug affects me</i> ) na górze strony z raportem błędu (w portalu Launchpad).",
-  "help": "#ubuntu-testing on Freenode"
+  "help": "#ubuntu-testing on LiberaChat"
 }

@@ -11,5 +11,5 @@
   "summary": "Used the maximum 40 votes in a day",
   "steps": "After you earn 10 reputation on the site vote until you've voted 40 times.\nClick the up or down arrows on the left side of the post you're voting on.",
   "pitfalls": "Don't just pick random things to vote on. Browse around to make sure you're upvoting good content.\nDon't serially upvote or downvote a specific person. The anti-cheating script will stop you from gaming the system.",
-  "help": "#ubuntu-community-team on Freenode"
+  "help": "#ubuntu-community-team on LiberaChat"
 }

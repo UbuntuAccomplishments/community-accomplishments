@@ -11,6 +11,6 @@
   "steps": "Signed up for Ask Ubuntu during private or public beta period.\nEarned at least 200 reputation before Ask Ubuntu publicly launched.",
   "pitfalls": "If you didn't join Ask Ubuntu, or earn enough reputation, before public launch you won't be able to earn this badge unless you have a time machine.",
   "links": "http://www.askubuntu.com",
-  "help": "#ubuntu-community-team on Freenode",
+  "help": "#ubuntu-community-team on LiberaChat",
   "author": "Marco Ceppi <marco@ceppi.net>"
 }

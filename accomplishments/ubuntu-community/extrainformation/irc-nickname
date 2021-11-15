@@ -1,8 +1,8 @@
 {
   "label": {
-    "en": "Freenode IRC nickname",
-    "en_gb": "Freenode IRC nickname",
-    "en_us": "Freenode IRC nickname"
+    "en": "LiberaChat IRC nickname",
+    "en_gb": "LiberaChat IRC nickname",
+    "en_us": "LiberaChat IRC nickname"
   },
   "description": {
     "en": "The nickname you use on Ubuntu IRC channels",

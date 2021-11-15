@@ -10,5 +10,5 @@
   "author": "Michael Hall <mhall119@ubuntu.com>",
   "summary": "An Ubuntu Hour is a short, informal meetup every week, every other week or every month.\nUbuntu Hours have become a great method for advocacy, team-building, and social fun. It's a great way to promote the use of Ubuntu on a regular basis.\nOrganizing and participating in an Ubuntu Hour is very easy:\n* Head over to a public place (like a local coffee shop, etc) where you'll hang out.\n* Wear something with the Ubuntu logo or have a visible Ubuntu sticker on your laptop (if you bring one).\n* When/if you show up, you agree to the Ubuntu Code of Conduct.\n* Anyone can start an Ubuntu Hour, anywhere, anytime.\n* Remember this is a social event, be approachable!",
   "steps": "Go to <tt>loco.ubuntu.com</tt> and find your nearest team.\nView the list of upcoming events for your team, click on one for the upcoming Global Jam.\nClick the 'Register' link on the upper-righthand corner of the page.\nSet your registration status to 'attending'.\nAttend the event in question and have a great time!",
-  "help": "#ubuntu-locoteams on Freenode"
+  "help": "#ubuntu-locoteams on LiberaChat"
 }

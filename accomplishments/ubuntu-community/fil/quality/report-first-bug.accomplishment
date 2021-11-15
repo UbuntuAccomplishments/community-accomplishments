@@ -12,5 +12,5 @@
   "steps": "Buksan ang terminal sa pamamagitan ng pag-click sa Ubuntu button at mag-type ng <i>terminal</i> sa dash.\nI-type and <tt>ubuntu-bug</tt> at and pangalan ng package kung saan mo gustong i-file ang bug (e.g. <tt>ubuntu-bug unity</tt> for Unity). Kung hindi mo alam ang pangalan ng package, i-type mo lang ang <tt>ubuntu-bug</tt> at samahan ang mga susunod na tagubilin.\nSamahan ang mga tagubilin sa Launchpad.",
   "tips": "Siguraduhing dapat na maging kumpleto and detalyado and inyong ulat tungkol sa mga bugs.\nKung alam mo ang mga paraan upang maiulit ang bug, isali ang mga paraang ito sa deskripsyon ng bug. Ito ay tinatawag na <i>pag-uulit ng bug</i>.\nDapat tandaan na sa tuwing mag-file ng bug report, ikaw ay humihingi sa developer ng oras upang ito ay maresolba. Subuking maging matulungin at magalang sa tuwina.",
   "pitfalls": "Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.\nDon't reply to a bug saying \"me too!\"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).",
-  "help": "#ubuntu-testing on Freenode"
+  "help": "#ubuntu-testing on LiberaChat"
 }

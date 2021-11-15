@@ -12,6 +12,6 @@
   "pitfalls": "Include your best work when applying, and make sure that all the work shows a wide range of triaging activities.\nYou should probably be a Bug Squad member for at least a few months before applying to Bug Control.",
   "steps": "Sign the <a href=\"http://www.ubuntu.com/community/conduct\">Ubuntu Code of Conduct</a>\nComplete all the <a href=\"https://wiki.ubuntu.com/UbuntuBugControl#Generic-reqs\">generic requirements</a> for joining Bug Control.\nImprove some bug reports and keep a short list (at least 5) of your best ones.\nFollow the <a href=\"https://wiki.ubuntu.com/UbuntuBugControl#Application\">instructions for applying</a> for Ubuntu Bug Control.",
   "links": "https://wiki.ubuntu.com/UbuntuBugControl",
-  "help": "#ubuntu-bugs on Freenode",
+  "help": "#ubuntu-bugs on LiberaChat",
   "author": "Matt Fischer <matthew.fischer@canonical.com>"
 }

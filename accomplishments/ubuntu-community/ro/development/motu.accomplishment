@@ -10,5 +10,5 @@
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Un programator Ubuntu MOTU este responsabil de pachete și de rezolvarea problemelor apărute în arhiva <tt>universe</tt>. Aceasta include o varietate largă de aplicații care sunt introduse în Ubuntu din Debian.",
   "steps": "Contribuie extensiv la Ubuntu pentru o perioadă mare de timp.\nFolosește-te de Programul de Sponsorizare Ubuntu pentru a realiza contribuțiile tale.\nAplică la Comisia de Programare Ubuntu pentru poziția de programator MOTU.",
-  "help": "#ubuntu-devel pe Freenode"
+  "help": "#ubuntu-devel pe LiberaChat"
 }

@@ -11,6 +11,6 @@
   "links": "https://wiki.ubuntu.com/QATeam/ContributingTestcases/Manual\nhttps://wiki.ubuntu.com/QATeam/ContributingTestcases/ManualStyleGuide",
   "tips": "Prioritaze our <a href=\"https://bugs.launchpad.net/ubuntu-manual-tests/+bugs?field.tag=todo\">todo list</a> if you're unsure on what to work on.\nImprove current testcases instead of create new ones.\nSay hello at #ubuntu-quality or present yourself in the <a href=\"https://lists.ubuntu.com/mailman/listinfo/ubuntu-quality\">quality mailing list</a>.\nLook at the <a href=\"https://wiki.ubuntu.com/Testing/Activities/Classroom\">QA Classroom</a> section.\nAssist to a <a href=\"https://wiki.ubuntu.com/QATeam/Hackfest\">Hackfest</a>.",
   "pitfalls": "Start writing a manual testcase without assigning to yourself an <a href=\"https://bugs.launchpad.net/ubuntu-manual-tests\">open report</a>(if available).\nUse your own <a href=\"https://wiki.ubuntu.com/QATeam/ContributingTestcases/ManualStyleGuide#Testcase_Format\">formatting</a> specifications.\nCreate a Manual testcase based on an application running in a released Ubuntu version.",
-  "help": "#ubuntu-quality on Freenode",
+  "help": "#ubuntu-quality on LiberaChat",
   "author": "Javier Lopez <chilicuil@ubuntu.com>"
 }

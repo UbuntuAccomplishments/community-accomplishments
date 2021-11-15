@@ -12,5 +12,5 @@
   "steps": "Visit the <a href=\"http://askubuntu.com\">Ask Ubuntu home page</a> and look for a question you think you might be able to provide an answer to.\nScroll to the bottom of the page to \"Your Answer\" and enter your answer below.\nOnce your answer is posted, you can click the \"edit\" link underneath the answer to make further improvements or correct errors.\nYou will be awarded the badge once the score of the answer reaches 25.",
   "tips": "Be sure to clearly document sources in your answers.\nScreenshots are an excellent way to demonstrate a complicated set of instructions.",
   "pitfalls": "Down-votes count against the score of the answer.",
-  "help": "#ubuntu-community-team auf Freenode"
+  "help": "#ubuntu-community-team auf LiberaChat"
 }
