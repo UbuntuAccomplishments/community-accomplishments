@@ -8,6 +8,6 @@
   "icon": "default.svg",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Launchpad is a website in which we do much of our work in Ubuntu. There we build packages, file and fix bugs, perform translations, manage code, and other activities.\nYou will need to register an account with Launchpad to participate in much of the Ubuntu community. Fortunately, registering is simple, safe, and free.",
-  "steps": "Lancez un navigateur.\nDans votre navigateur allez à l'adresse <tt>http://www.launchpad.net</tt>.\nPour vous inscrire, cliquez sur le lien \"S'inscrire\" dans le coin de la page.",
+  "steps": "Lancez un navigateur.\nDans votre navigateur allez à l'adresse <tt>https://www.launchpad.net</tt>.\nPour vous inscrire, cliquez sur le lien \"S'inscrire\" dans le coin de la page.",
   "help": "#launchpad sur LiberaChat"
 }

@@ -10,7 +10,7 @@
   "summary": "First bounty you offered on another person's question",
   "steps": "Find a question on AskUbuntu\nPlace a bounty by clicking on the start a bounty button. It is found below the question's comment area.\nUse the drop-down menu to adjust the amount of reputation you are willing to award then click on Start Bounty.\nYou can award a bounty by clicking on the respective button below the upvote/downvote interface.\nBounties expire after seven days. You will receive several notifications a few days before this happens.",
   "pitfalls": "Avoid offering a bounty for a question that you don't need an answer for.\nMake sure you reward the correct answer with your bounty offered.",
-  "links": "http://www.askubuntu.com",
+  "links": "https://www.askubuntu.com",
   "help": "#ubuntu-community-team on LiberaChat",
   "author": "Luke Caputo <x1karr0usx@gmail.com>"
 }

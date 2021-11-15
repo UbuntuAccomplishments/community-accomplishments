@@ -9,7 +9,7 @@
   "depends": "ubuntu-community/registered-on-askubuntu",
   "summary": "Occasionally one will find or realize the solution to a question, which he or she posted, before the Ask Ubuntu community. It is encouraged and beneficial to post answers to self asked questions.\nWhen an answer to a self posted question receives a score (up vote) of 3 or more, the Self-Learner Badge is awarded.",
   "steps": "Provide a correct answer to a question posted by ones self.\nReceive 3 up votes on your provided answer by the Ask Ubuntu community.",
-  "links": "http://www.askubuntu.com",
+  "links": "https://www.askubuntu.com",
   "tips": "Answers should be very descriptive with each step displayed in succession.\nImages and screen-shots in answers are helpful and will receive more attention if appropriately used.",
   "pitfalls": "Vague or generic answers with links to other blogs are not easy to understand.\nObvious answers will not impress the community thus lowering the chance of up scoring.",
   "help": "#ubuntu-community-team on LiberaChat",

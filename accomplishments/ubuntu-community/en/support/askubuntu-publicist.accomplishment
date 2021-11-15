@@ -11,7 +11,7 @@
   "steps": "Find a question you would like to share.\nUse any of the three social share buttons (Twitter, Google+, and Facebook) located to the left of the question.\nAlternatively click the <i>link</i> button below the question or answer and share that link.",
   "tips": "There are no time limitations for this badge.\nIt doesn't need to be your own question.",
   "pitfalls": "The link <b>must</b> be obtained by the above steps (it is a special link containing your user number).",
-  "links": "http://www.askubuntu.com",
+  "links": "https://www.askubuntu.com",
   "help": "#ubuntu-community-team on LiberaChat",
   "author": "Hernando Torque <sirius@sonnenkinder.org>"
 }

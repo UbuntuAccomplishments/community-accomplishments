@@ -8,6 +8,6 @@
   "icon": "default.svg",
   "author": "Jono Bacon <jono@ubuntu.com>",
   "summary": "Launchpad è un sito web nel quale noi facciamo molto del nostro lavoro in Ubuntu. Qui noi costruiamo i pacchetti, apriamo e risolviamo i bug, facciamo le traduzioni, gestiamo il codice, e altre attività.\nSarà necessario registrare un account con Launchpad per partecipare a gran parte della comunità di Ubuntu. Fortunatamente, la registrazione è semplice, sicura, e gratuita.",
-  "steps": "Avviate un browser web sul vostro computer.\nNel vostro browser web andate su <tt>http://www.launchpad.net</tt>.\nFate clic sul link <i>Register</i> nell'angolo dello schermo per registrarsi.",
+  "steps": "Avviate un browser web sul vostro computer.\nNel vostro browser web andate su <tt>https://www.launchpad.net</tt>.\nFate clic sul link <i>Register</i> nell'angolo dello schermo per registrarsi.",
   "help": "#launchpad on LiberaChat"
 }

@@ -9,7 +9,7 @@
   "needs-information": "launchpad-email",
   "summary": "LoCo Teams often hold physical meetups where members can meet eachother in person, and they need somebody to organize and promote them. You can be a leader within your own LoCo Team by helping plan these events.\nPlanning doesn't usually require much, all you need is a suitable venue (a coffee shop or library will do), pick a day and time, and let the rest of your team know about it.",
   "steps": "Go to <tt>loco.ubuntu.com</tt> and find your team.\nFrom the team page, click on 'Add New Event'.\nSet yourself as the Event Contact\nOrganize the event in question and have a great time!",
-  "links": "http://loco.ubuntu.com",
+  "links": "https://loco.ubuntu.com",
   "help": "#ubuntu-locoteams on LiberaChat",
   "author": "Michael Hall <mhall119@ubuntu.com>"
 }

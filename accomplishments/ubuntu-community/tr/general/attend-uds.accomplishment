@@ -9,6 +9,6 @@
   "depends": "ubuntu-community/registered-on-launchpad",
   "author": "Michael Hall <mhall119@ubuntu.com>",
   "summary": "The Ubuntu Developer Summit is the event at which we plan for the forthcoming version of Ubuntu.\nIt brings together Canonical engineers, community members, partners, upstream representatives and cloud specialists, in an environment of active debate.\nThe Ubuntu Developer Summit offers sessions, tracks, meet-ups and other events for anyone with an interest in Ubuntu.\nWe even provide a number of online services to allow remote participation if you can't attend the event in person.",
-  "steps": "Go to <tt>http://uds.ubuntu.com</tt> when the next event has been announced.\nClick the 'Register to Attend' link below the event description.\nFill out the requested forms, specifying if you will be participating in person or remotely.\nBrowse the list of scheduled meetings and mark yourself as attending those you wish to attend.\nAttend the event, participate in the discussions and have a great time!",
+  "steps": "Go to <tt>https://uds.ubuntu.com</tt> when the next event has been announced.\nClick the 'Register to Attend' link below the event description.\nFill out the requested forms, specifying if you will be participating in person or remotely.\nBrowse the list of scheduled meetings and mark yourself as attending those you wish to attend.\nAttend the event, participate in the discussions and have a great time!",
   "help": "#ubuntu-uds on LiberaChat"
 }

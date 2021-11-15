@@ -10,7 +10,7 @@
   "summary": "Sometimes your post (answer or question) might get negative feedback from the Ask Ubuntu community, e.g., because the question doesn't belong on Ask Ubuntu, has content issues, the answer might not fit the question, etc. This is reflected by your post's score, which will decrease by one with every downvote from a community member. Should your post get a score of -3 or less and you delete it, you will receive this badge.",
   "steps": "Post a question or answer (an unintentionally bad one).\nWait for it to get a score of -3 (where <i>score</i> is the difference between up- and downvotes).\nDelete the post by clicking on the <i>delete</i> link below it.",
   "pitfalls": "The post must have a score of -3 or less at the time of deletion.\nPlease don't intentionally try to get this badge. ;-)",
-  "links": "http://www.askubuntu.com\nhttp://askubuntu.com/privileges/vote-up\nhttp://askubuntu.com/privileges/vote-down",
+  "links": "https://www.askubuntu.com\nhttps://askubuntu.com/privileges/vote-up\nhttps://askubuntu.com/privileges/vote-down",
   "help": "#ubuntu-community-team on LiberaChat",
   "author": "Hernando Torque <sirius@sonnenkinder.org>"
 }

@@ -10,7 +10,7 @@
   "summary": "Accepted answer and score of 40 or more",
   "steps": "Provide step by step instructions for to accomplish this.\nEach step should be on a new line with a tab at the beginning, like this.",
   "pitfalls": "A set of things the user should avoid while perusing this accomplishment (each one added on a new line).",
-  "links": "http://www.askubuntu.com",
+  "links": "https://www.askubuntu.com",
   "help": "#ubuntu-community-team on LiberaChat",
   "author": "Nathan Osman <admin@quickmediasolutions.com>"
 }

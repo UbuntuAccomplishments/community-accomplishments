@@ -10,7 +10,7 @@
     "en_us": "The URL of your profile page on Ask Ubuntu"
   },
   "example": {
-    "en": "http://askubuntu.com/users/NUMBER/USERNAME"
+    "en": "https://askubuntu.com/users/NUMBER/USERNAME"
   },
   "regex": {
     "value": "^(https?://)?askubuntu.com/users/\\d+/.*"

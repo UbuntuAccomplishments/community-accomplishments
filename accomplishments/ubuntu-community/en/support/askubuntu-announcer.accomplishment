@@ -11,7 +11,7 @@
   "steps": "Open a question you wish to share\nUse any one of the three social share buttons located to the left of the question.\nAlternatively click the \"link\" button below the question or answer and share that link.",
   "pitfalls": "Each button generates a special link that tracks incoming requests and ties them to your user.",
   "subcategory": "Ask Ubuntu:Publicity badges",
-  "links": "http://www.askubuntu.com",
+  "links": "https://www.askubuntu.com",
   "help": "#ubuntu-community-team on LiberaChat",
   "author": "Marco Ceppi <marco@ceppi.net>"
 }

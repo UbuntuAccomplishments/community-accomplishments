@@ -11,7 +11,7 @@
   "steps": "Leave a high quality comment. If you have less than 50 reputation, you can only comment your own posts and questions.\nWait until the comment received 5 or more upvotes from the community.\nRepeat for a total of 10 such comments.",
   "tips": "Your comments will more likely receive upvotes if they add real value to the posts (e.g., asking a questioner for more detail, explaining a downvote on the post, etc.).",
   "pitfalls": "Don't try to attract upvotes by leaving funny or snide comments.",
-  "links": "http://www.askubuntu.com\nhttp://askubuntu.com/faq#reputation\nhttp://askubuntu.com/privileges\nhttp://askubuntu.com/privileges/comment",
+  "links": "https://www.askubuntu.com\nhttps://askubuntu.com/faq#reputation\nhttps://askubuntu.com/privileges\nhttps://askubuntu.com/privileges/comment",
   "help": "#ubuntu-community-team on LiberaChat",
   "author": "Hernando Torque <sirius@sonnenkinder.org>"
 }
