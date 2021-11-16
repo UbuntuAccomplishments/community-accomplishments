@@ -4,7 +4,7 @@ import json
 import gzip
 import simplejson
 import urllib
-import StringIO
+import io
 import json
 
 
@@ -25,7 +25,7 @@ try:
         sys.exit(1)
 
     user_raw = user_req.read()
-    user_raw = StringIO.StringIO(user_raw)
+    user_raw = io.StringIO(user_raw)
     gzipr = gzip.GzipFile(fileobj=user_raw)
 
     user_raw = gzipr.read()

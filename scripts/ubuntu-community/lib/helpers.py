@@ -10,7 +10,7 @@ import traceback
 import gzip
 import simplejson
 import urllib
-import StringIO
+import io
 try:
     import json
 except ImportError:
@@ -181,7 +181,7 @@ class AskUbuntu(CachedData):
         
         badges_raw = badges_req.read()
 
-        badges_raw = StringIO.StringIO(badges_raw)
+        badges_raw = io.StringIO(badges_raw)
         gzipr = gzip.GzipFile(fileobj=badges_raw)
 
         badges_raw = gzipr.read()
