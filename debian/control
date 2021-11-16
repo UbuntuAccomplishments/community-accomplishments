@@ -1,0 +1,20 @@
+Source: ubuntu-community-accomplishments
+Section: misc
+Priority: optional
+Maintainer: Dani Llewellyn <diddledani@ubuntu.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://github.com/UbuntuAccomplishments
+Vcs-Browser: https://github.com/UbuntuAccomplishments/community-accomplishments
+Vcs-Git: https://github.com/UbuntuAccomplishments/community-accomplishments.git
+Rules-Requires-Root: no
+
+Package: ubuntu-community-accomplishments
+Architecture: all
+Depends: ${shlibs:Depends},
+ ${misc:Depends},
+ python3,
+ python3-launchpadlib
+Description: Accomplishments that can be used as part of the Ubuntu Community
+ Provides accomplishments that can be used as part of the Ubuntu Community,
+ this is used with the ubuntu-accomplishments-system

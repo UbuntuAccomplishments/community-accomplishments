@@ -1,0 +1,96 @@
+ubuntu-community-accomplishments (0.4ubuntu2) UNRELEASED; urgency=low
+
+  [ Matthew Fischer ]
+  [ Javier P.L.]
+  * Accomplishments for manual and autopilot test cases
+
+  [ Dani Llewellyn ]
+  * Port to python3 and ubuntu-accomplishments-daemon based on dart
+
+ -- Dani Llewellyn <diddledani@ubuntu.com>  Tue, 16 Nov 2021 21:47:43 +0000
+
+ubuntu-community-accomplishments (0.3~quantal2) quantal; urgency=low
+
+  * Redoing the upload to fix the incorrect distroseries, no other changes 
+
+ -- Matthew Fischer <matthew.fischer@ubuntu.com>  Wed, 26 Sep 2012 16:26:28 -0600
+
+ubuntu-community-accomplishments (0.3~precise1) precise; urgency=low
+
+  [Rafał Cieślak]
+  [Jono Bacon]
+  * Test for bugsquad-member fixed
+ 
+  [Phillip Ballew]
+  * New Ubuntu Power Users accomplishment
+ 
+  [Alastair Buxton]
+  * Many grammar fixes in documentation
+ 
+  [Luke Caputo]
+  * AskUbuntu Investor badge fixed
+ 
+  [Jordan Chin]
+  * Lots of spelling fixes in documentation
+ 
+  [Rafał Cieślak]
+  * Scripts performance improved by storing downloaded data in cache
+ 
+  [Nathan Eckenrode]
+  * Documentation fixes
+ 
+  [Matthew Fischer]
+  * "Register on AskUbuntu" script fixed
+  * Grammar and capitalistaion in mugshot accomplishment fixed
+  * MOTU IRC channel in MOTU accomplishment fixed
+ 
+  [Janos Gyerik]
+  * Example value for askubuntu-usr-url extrainfo added
+ 
+  [Christopher Kyle Horton]
+  * New AskUbuntu Organizer badge
+  * New AskUbuntu Outspoken badge
+  * New AskUbuntu Scholar badge
+  * New AskUbuntu Supporter badge
+ 
+  [José Antonio Rey]
+  * New Ubuntu Youth accomplishment
+  * IRC cloacks corrected
+
+ -- Matthew Fischer <matthew.fischer@ubuntu.com>  Wed, 26 Sep 2012 16:19:04 -0600
+
+ubuntu-community-accomplishments (0.2.1precise1) precise; urgency=low
+
+  * Fix for a data hungry canonical-contributors script.
+
+ -- Jono Bacon <jono@ubuntu.com>  Mon, 18 Jun 2012 18:12:57 -0700
+
+ubuntu-community-accomplishments (0.2) precise; urgency=low
+
+  * New release of the 0.2 collection. Includes a number of new accoms, most notably
+    Ask Ubuntu badges.
+
+ -- Jono Bacon <jono@ubuntu.com>  Fri, 08 Jun 2012 11:11:04 -0700
+
+ubuntu-community-accomplishments (0.1.2) precise; urgency=low
+
+  * New: Blog on Planet Ubuntu (Jono Bacon)
+  * New: Ubuntu Cloak (José Antonio Rey)
+  * New: Signed Canonical Contributor Agreement (Angelo Compagnucci)
+  * New: Uploaded First Branch To Launchpad (Jono Bacon)
+  * Added remaining tests.
+
+ -- Jono Bacon <jono@ubuntu.com>  Wed, 16 May 2012 01:13:09 -0700
+
+ubuntu-community-accomplishments (0.1.1) precise; urgency=low
+
+  * New release with new set of accomplishments.
+  * Added tests.
+
+ -- Jono Bacon <jono@ubuntu.com>  Mon, 14 May 2012 11:53:31 -0700
+
+ubuntu-community-accomplishments (0.1) precise; urgency=low
+
+  * Initial Release.
+
+ -- Jono Bacon <jono@ubuntu.com>  Sun, 01 Apr 2012 08:23:52 -0600
