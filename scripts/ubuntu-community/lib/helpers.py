@@ -9,7 +9,7 @@ import time
 import traceback
 import gzip
 import simplejson
-import urllib
+import requests
 import io
 try:
     import json
@@ -174,18 +174,12 @@ class AskUbuntu(CachedData):
         data.key = userid
         
         try:
-            badges_req = urllib.request.urlopen('http://api.stackexchange.com/2.0/users/%d/badges?pagesize=100&order=asc&sort=name&site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
+            badges_req = requests.get('http://api.stackexchange.com/2.0/users/%d/badges?pagesize=100&order=asc&sort=name&site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
         except:
             traceback.print_exc()
             return data #Returnning empty values
-        
-        badges_raw = badges_req.read()
 
-        badges_raw = io.StringIO(badges_raw)
-        gzipr = gzip.GzipFile(fileobj=badges_raw)
-
-        badges_raw = gzipr.read()
-        badges_data = json.loads(badges_raw)
+        badges_data = json.loads(badges_req.text)
         
         if len(badges_data['items']) == 0:
             return data
@@ -218,9 +212,9 @@ class LocoTeamPortal(object):
             self.cache[resource] = {}
         url = '/'.join([self.service_root, resource, ''])
         if len(kargs) > 0:
-            url = '?'.join([url, urllib.urlencode(kargs)])
-        s = urllib.urlopen(url)
-        col = dict([(o[id_field], o) for o in json.load(s)])
+            url = '?'.join([url, requests.utils.quote(kargs)])
+        s = requests.get(url)
+        col = dict([(o[id_field], o) for o in json.load(s.text)])
         self.cache[resource].update(col)
         return col
 
@@ -230,7 +224,7 @@ class LocoTeamPortal(object):
             self.cache[resource] = {}
         if not self.cache[resource].has_key(entity_id):
             url = '/'.join([self.service_root, resource, str(entity_id)])
-            s = urllib.urlopen(url)
+            s = requests.get(url)
             self.cache[resource][entity_id] = json.load(s)
         return self.cache[resource][entity_id]
 

@@ -3,7 +3,7 @@ import traceback, sys
 import json
 
 import datetime
-import urllib
+import requests
 try:
     import json
 except ImportError:
@@ -32,9 +32,9 @@ class Summit(object):
             self.cache[resource] = {}
         url = '/'.join([self.service_root, resource, ''])
         if len(kargs) > 0:
-            url = '?'.join([url, urllib.urlencode(kargs)])
-        s = urllib.urlopen(url)
-        col = dict([(o[id_field], o) for o in json.load(s)])
+            url = '?'.join([url, requests.utils.quote(kargs)])
+        s = requests.get(url)
+        col = dict([(o[id_field], o) for o in json.load(s.text)])
         self.cache[resource].update(col)
         return col
 
@@ -44,8 +44,8 @@ class Summit(object):
             self.cache[resource] = {}
         if not self.cache[resource].has_key(entity_id):
             url = '/'.join([self.service_root, resource, str(entity_id)])
-            s = urllib.urlopen(url)
-            self.cache[resource][entity_id] = json.load(s)
+            s = requests.get(url)
+            self.cache[resource][entity_id] = json.load(s.text)
         return self.cache[resource][entity_id]
 
 try:

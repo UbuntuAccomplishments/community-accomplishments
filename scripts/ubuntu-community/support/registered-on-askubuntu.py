@@ -3,7 +3,7 @@ import traceback, sys
 import json
 import gzip
 import simplejson
-import urllib
+import requests
 import io
 import json
 
@@ -16,20 +16,16 @@ try:
         userurl = j["askubuntu-user-url"]
 
     userid = int(userurl.split("/")[-2])
+    print(userid)
 
     # API: http://api.stackexchange.com/docs/types/user
     try:
-        user_req = urllib.reqeust.urlopen('https://api.stackexchange.com/2.0/users/%d?site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
+        user_req = requests.get('https://api.stackexchange.com/2.0/users/%d?site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
 
     except:
         sys.exit(1)
 
-    user_raw = user_req.read()
-    user_raw = io.StringIO(user_raw)
-    gzipr = gzip.GzipFile(fileobj=user_raw)
-
-    user_raw = gzipr.read()
-    user_data = json.loads(user_raw)
+    user_data = json.loads(user_req.text)
     user_type = user_data['items'][0]['user_type']
 
     if user_type == 'registered' or user_type == 'moderator':

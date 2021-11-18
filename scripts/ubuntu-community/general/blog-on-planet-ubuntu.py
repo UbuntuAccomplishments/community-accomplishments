@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import traceback, sys
-import urllib
+import requests
 import re
 import json
 
@@ -23,7 +23,7 @@ try:
         username = str(me).split("~")[1]
         # we check the current planet config held in bzr for a LP username match
         url = "http://bazaar.launchpad.net/~planet-ubuntu/config/main/view/head:/config.ini"
-        html_content = urllib.urlopen(url).read()
+        html_content = requests.get(url).text
         matches = re.findall(username, html_content)
 
         if len(matches) == 0:
