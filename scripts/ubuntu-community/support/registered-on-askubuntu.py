@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 import traceback, sys
 import json
-import gzip
-import simplejson
 import requests
-import io
 import json
 
 

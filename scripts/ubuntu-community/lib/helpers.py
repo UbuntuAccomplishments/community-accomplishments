@@ -7,10 +7,7 @@ import os
 import os.path
 import time
 import traceback
-import gzip
-import simplejson
 import requests
-import io
 try:
     import json
 except ImportError:
