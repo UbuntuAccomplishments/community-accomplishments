@@ -87,7 +87,7 @@ class CachedData(object):
                         pass
 
         # Cache miss. Call populate()
-        print("Creating %s cache for %s..." % (cls.__name__, str(key)))
+        print("Creating %s cache for %s..." % (cls.__name__, key))
         obj = cls.populate(key)
         
         with open(cache_file, 'wb') as output:
@@ -133,7 +133,7 @@ class Launchpad(CachedData):
         if user is None:
             return data
         data.name = user.name
-        data.key = str(email)
+        data.key = email
         data.super_teams = [i.name for i in user.super_teams]
         # Direct teams are temporarily disabled, since no script would make use of it.
         # If you are adding a new script that requires this bit of data, uncomment the
@@ -200,29 +200,27 @@ class LocoTeamPortal(object):
     def clearCache(self, resource=None):
         if resource is None:
             self.cache = {}
-        elif self.cache.has_key(resource):
+        elif resource in self.cache:
             self.cache[resource] = {}
         
     # Generic, caching Collection
     def getCollection(self, resource, id_field='id', **kargs):
-        if not self.cache.has_key(resource):
+        if not resource in self.cache:
             self.cache[resource] = {}
         url = '/'.join([self.service_root, resource, ''])
-        if len(kargs) > 0:
-            url = '?'.join([url, requests.utils.quote(kargs)])
-        s = requests.get(url)
-        col = dict([(o[id_field], o) for o in json.load(s.text)])
+        s = requests.get(url, kargs)
+        col = dict([(o[id_field], o) for o in s.json()])
         self.cache[resource].update(col)
         return col
 
     # Generic, cacheable Entity
     def getEntity(self, resource, entity_id):
-        if not self.cache.has_key(resource):
+        if not resource in self.cache:
             self.cache[resource] = {}
-        if not self.cache[resource].has_key(entity_id):
-            url = '/'.join([self.service_root, resource, str(entity_id)])
+        if not entity_id in self.cache[resource]:
+            url = '/'.join([self.service_root, resource, entity_id])
             s = requests.get(url)
-            self.cache[resource][entity_id] = json.load(s)
+            self.cache[resource][entity_id] = json.loads(s)
         return self.cache[resource][entity_id]
 
 

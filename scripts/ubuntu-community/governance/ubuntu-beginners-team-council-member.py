@@ -11,7 +11,7 @@ try:
     import json
 
     j = json.loads(sys.argv[1])
-    if bool(j['launchpad-email']) == False:
+    if not 'launchpad-email' in j or bool(j['launchpad-email']) == False:
         sys.exit(4)
     else:
         email = j['launchpad-email']

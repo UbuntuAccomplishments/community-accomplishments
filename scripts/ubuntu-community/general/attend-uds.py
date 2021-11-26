@@ -23,34 +23,32 @@ class Summit(object):
     def clearCache(self, resource=None):
         if resource is None:
             self.cache = {}
-        elif self.cache.has_key(resource):
+        elif resource in self.cache:
             self.cache[resource] = {}
         
     # Generic, caching Collection
     def getCollection(self, resource, id_field='id', **kargs):
-        if not self.cache.has_key(resource):
+        if not resource in self.cache:
             self.cache[resource] = {}
         url = '/'.join([self.service_root, resource, ''])
-        if len(kargs) > 0:
-            url = '?'.join([url, requests.utils.quote(kargs)])
-        s = requests.get(url)
-        col = dict([(o[id_field], o) for o in json.load(s.text)])
+        s = requests.get(url, kargs)
+        col = dict([(o[id_field], o) for o in s.json()])
         self.cache[resource].update(col)
         return col
 
     # Generic, cacheable Entity
     def getEntity(self, resource, entity_id):
-        if not self.cache.has_key(resource):
+        if not resource in self.cache:
             self.cache[resource] = {}
-        if not self.cache[resource].has_key(entity_id):
-            url = '/'.join([self.service_root, resource, str(entity_id)])
+        if not entity_id in self.cache[resource]:
+            url = '/'.join([self.service_root, resource, entity_id])
             s = requests.get(url)
-            self.cache[resource][entity_id] = json.load(s.text)
+            self.cache[resource][entity_id] = s.json()
         return self.cache[resource][entity_id]
 
 try:
     j = json.loads(sys.argv[1])
-    if bool(j['launchpad-email']) == False:
+    if not 'launchpad-email' in j or bool(j['launchpad-email']) == False:
         sys.exit(2)
     else:
         email = j['launchpad-email']
