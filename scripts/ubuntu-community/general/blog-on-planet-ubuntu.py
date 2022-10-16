@@ -22,7 +22,7 @@ try:
     else:
         username = str(me).split("~")[1]
         # we check the current planet config held in bzr for a LP username match
-        url = "http://bazaar.launchpad.net/~planet-ubuntu/config/main/view/head:/config.ini"
+        url = "https://bazaar.launchpad.net/~planet-ubuntu/config/main/view/head:/config.ini"
         html_content = requests.get(url).text
         matches = re.findall(username, html_content)
 

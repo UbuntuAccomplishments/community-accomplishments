@@ -15,7 +15,7 @@ try:
     userid = int(userurl.split("/")[-2])
     print(userid)
 
-    # API: http://api.stackexchange.com/docs/types/user
+    # API: https://api.stackexchange.com/docs/types/user
     try:
         user_req = requests.get('https://api.stackexchange.com/2.0/users/%d?site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
 

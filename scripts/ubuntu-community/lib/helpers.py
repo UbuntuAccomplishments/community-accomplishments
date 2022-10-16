@@ -171,7 +171,7 @@ class AskUbuntu(CachedData):
         data.key = userid
         
         try:
-            badges_req = requests.get('http://api.stackexchange.com/2.0/users/%d/badges?pagesize=100&order=asc&sort=name&site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
+            badges_req = requests.get('https://api.stackexchange.com/2.0/users/%d/badges?pagesize=100&order=asc&sort=name&site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
         except:
             traceback.print_exc()
             return data #Returnning empty values
@@ -188,7 +188,7 @@ class AskUbuntu(CachedData):
         return data
         
 
-DEFAULT_SERVICE_ROOT = 'http://loco.ubuntu.com/services'
+DEFAULT_SERVICE_ROOT = 'https://loco.ubuntu.com/services'
 
 class LocoTeamPortal(object):
     # Wrapper around the LTP services API

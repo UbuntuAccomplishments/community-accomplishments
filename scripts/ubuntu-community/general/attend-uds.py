@@ -12,7 +12,7 @@ except ImportError:
 
 from launchpadlib.launchpad import Launchpad
 
-SERVICE_ROOT = 'http://summit.ubuntu.com/api'
+SERVICE_ROOT = 'https://summit.ubuntu.com/api'
 
 class Summit(object):
 
